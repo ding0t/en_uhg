@@ -108,9 +108,8 @@ people were instrumental in the creation of the UHG:
 -  Daniel Bowman (BA Ancient Languages, Cornerstone University; MDiv,
    Grand Rapids Theological Seminary)
 -  Ethan Knapp
--  Joel D. Ruark (M.A.Th. Gordon-Conwell Theological Seminary; Th.M.
-   Stellenbosch University; Ph.D. Candidate in Old Testament Studies,
-   Stellenbosch University)
+-  Joel D. Ruark (M.A.Th. Gordon-Conwell Theological Seminary; Th.M., Ph.D.
+   Old Testament, Stellenbosch University)
 -  Jesse Griffin (BA Biblical Studies, Liberty University; MA Biblical
    Languages, Gordon-Conwell Theological Seminary)
 -  Kenny E. Hilliard III (BA Christian Studies, North Greenville
