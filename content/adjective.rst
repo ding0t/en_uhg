@@ -224,3 +224,6 @@ Usually, the superlative meaning of an adjective must be determined from the con
   **hayyafah** bannashim
   **the-fair** among-women
   **the fairest** among women
+
+|A| is a language.
+.. |A| text:: Biblical Hebrew
