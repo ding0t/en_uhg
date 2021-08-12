@@ -251,12 +251,12 @@ latex_elements = {
 
      # Additional stuff for the LaTeX preamble.
      #
-     'preamble': '''
+     'preamble': r'''
 \usepackage{xeCJK}
 \setmainfont{SBL Hebrew}
 \XeTeXlinebreaklocale "he"
 \XeTeXlinebreakskip = 0pt plus 1pt
-     '''
+'''
 
      # Latex figure (float) alignment
      #
