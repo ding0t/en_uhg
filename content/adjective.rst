@@ -226,4 +226,4 @@ Usually, the superlative meaning of an adjective must be determined from the con
   **the fairest** among women
 
 |A| is a language.
-.. |A| text:: Biblical Hebrew
+.. |A| include:: includes/language.txt
