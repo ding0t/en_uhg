@@ -1,6 +1,7 @@
 <a href="https://uhg.readthedocs.io/"><img src="https://readthedocs.org/projects/uhg/badge/?version=latest"></a>
 
 <img src="https://cdn.door43.org/assets/uw-icons/logo-uhg-256.png" alt="drawing" width="100"/>
+
 # unfoldingWord® Hebrew Grammar
 
 These are the source files for the [unfoldingWord® Hebrew Grammar](https://uhg.readthedocs.io/).
