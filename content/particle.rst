@@ -8,7 +8,7 @@ Particle
 Summary
 -------
 
-Particles are auxiliary words that do not fit neatly into any specific category.
+.. include: includes/particle_summary.txt
 
 Article
 -------

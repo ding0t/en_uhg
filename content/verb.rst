@@ -8,9 +8,7 @@ Verb
 Summary
 -------
 
-A verb is the grammatical entity that describes the subject of a
-sentence. A verb can describe either an action that the subject performs
-or the state (or condition) of the subject.
+.. include: includes/verb_summary.txt
 
 Article
 -------

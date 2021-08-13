@@ -8,8 +8,7 @@ Suffix
 Summary
 -------
 
-A suffix consists of one or more letters added to the end of a word.  Nouns, verbs, adjectives, prepositions, participles,
-infinitives and even some particles can take suffixes in Biblical Hebrew.
+.. include: includes/suffix_summary.txt
 
 Article
 -------

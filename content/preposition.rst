@@ -8,9 +8,7 @@ Preposition
 Summary
 -------
 
-A preposition introduces a phrase that describes another word/concept within a sentence, usually a :ref:`noun<noun>` or a :ref:`verb<verb>`.
-However, like :ref:`adverbs<adverb>` and :ref:`particles<particle>`, sometimes a prepositional phrase can describe the sentence as a whole.
-In Biblical Hebrew, prepositions can also be used with an infinitive construct verb to show its relationship to the main verb of a sentence.
+.. include: includes/preposition_summary.txt
 
 Article
 -------

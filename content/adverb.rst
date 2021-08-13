@@ -8,8 +8,7 @@ Adverb
 Summary
 -------
 
-An adverb is a word that describes a verb, or sometimes describes a sentence as a whole. Some 
-particles in Biblical Hebrew are closely related to adverbs.
+.. include: includes/adverb_summary.txt
 
 .. note:: Because there are not many direct adverbs in Biblical Hebrew, other kinds of words often function as adverbs.
 

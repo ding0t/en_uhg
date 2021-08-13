@@ -8,7 +8,7 @@ Noun
 Summary
 -------
 
-A noun is a word that refers to a person, a thing, a place, or an idea.
+.. include: includes/noun_summary.txt
 
 Article
 -------

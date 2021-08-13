@@ -8,8 +8,7 @@ Pronoun
 Summary
 -------
 
-A pronoun is a word that indirectly refers to a person or a thing.  For example: "John" is a proper name, "man" is a common noun,
-and "he" is a pronoun; but all three terms can refer to the same person named "John".
+.. include: includes/pronoun_summary.txt
 
 Article
 -------
