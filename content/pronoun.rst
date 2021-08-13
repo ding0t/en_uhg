@@ -8,7 +8,7 @@ Pronoun
 Summary
 -------
 
-.. include: includes/pronoun_summary.txt
+.. include:: includes/pronoun_summary.txt
 
 Article
 -------

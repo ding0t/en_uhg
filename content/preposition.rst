@@ -8,7 +8,7 @@ Preposition
 Summary
 -------
 
-.. include: includes/preposition_summary.txt
+.. include:: includes/preposition_summary.txt
 
 Article
 -------

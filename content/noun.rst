@@ -8,7 +8,7 @@ Noun
 Summary
 -------
 
-.. include: includes/noun_summary.txt
+.. include:: includes/noun_summary.txt
 
 Article
 -------

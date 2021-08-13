@@ -8,7 +8,7 @@ Verb
 Summary
 -------
 
-.. include: includes/verb_summary.txt
+.. include:: includes/verb_summary.txt
 
 Article
 -------

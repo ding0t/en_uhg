@@ -8,7 +8,7 @@ Adverb
 Summary
 -------
 
-.. include: includes/adverb_summary.txt
+.. include:: includes/adverb_summary.txt
 
 .. note:: Because there are not many direct adverbs in Biblical Hebrew, other kinds of words often function as adverbs.
 

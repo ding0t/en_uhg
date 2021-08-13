@@ -8,7 +8,7 @@ Particle
 Summary
 -------
 
-.. include: includes/particle_summary.txt
+.. include:: includes/particle_summary.txt
 
 Article
 -------

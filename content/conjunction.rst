@@ -8,7 +8,7 @@ Conjunction
 Summary
 -------
 
-.. include: includes/conjunction_summary.txt
+.. include:: includes/conjunction_summary.txt
 
 Article
 -------

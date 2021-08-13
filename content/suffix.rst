@@ -8,7 +8,7 @@ Suffix
 Summary
 -------
 
-.. include: includes/suffix_summary.txt
+.. include:: includes/suffix_summary.txt
 
 Article
 -------
