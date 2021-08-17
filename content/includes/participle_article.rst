@@ -1,5 +1,5 @@
 In
-.. include:: content/hebrew/language.text
+.. include:: content/includes/language.txt
 , participles are :ref:`non-finite<verb-non-finite>` verbal forms that can change their form based on 
 :ref:`stem formation<stem>` (like :ref:`verbs<verb>`) as well as person, gender, state, and :ref:`definiteness<definiteness>`
 (like both :ref:`adjectives<adjective>` and :ref:`nouns<noun>`).
