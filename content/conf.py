@@ -17,6 +17,7 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
+import subprocess
 
 # -- General configuration ------------------------------------------------
 
@@ -345,3 +346,6 @@ texinfo_documents = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #
 # texinfo_no_detailmenu = False
+
+subprocess.run(["git", "submodule", "foreach", "git", "pull", "origin", "master"])
+
