@@ -9,7 +9,7 @@ Summary
 -------
 
 .. include:: includes/adjective-summary.rst
-.. include:: includes/adjective-summary-hebrew.rst
+.. include:: includes/hebrew/adjective-summary-hebrew.rst
 
 Article
 -------
