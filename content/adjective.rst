@@ -8,7 +8,7 @@ Adjective
 Summary
 -------
 
-.. include:: includes/adjective_summary.txt
+.. include:: includes/adjective_summary.rst
 
 Article
 -------
