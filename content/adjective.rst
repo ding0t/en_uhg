@@ -54,10 +54,10 @@ Paradigm
 Function
 --------
 
-.. _adjective-attributive:
-
 Describes a noun
 ~~~~~~~~~~~~~~~~
+
+.. _adjective-attributive:
 
 .. include:: includes/adjective-attributive.rst
 
@@ -82,14 +82,10 @@ Describes a noun
 
 .. _adjective-predicative:
 
-Predicative adjectives are adjectives that describe nouns using a :ref:`linking verb<verb-linking-verbs>`. 
-Often the linking verb is not present in the Hebrew text and must be supplied when translating into English. 
-Like attributive adjectives, a predicative adjective usually has the same form as the noun it
-describes in both gender and number. Unlike attributive adjectives, however, a predicative
-adjective can be indefinite even if it describes a :ref:`definite<definiteness>` noun.
+.. include:: includes/adjective-predicative.rst
 
 .. note:: Sometimes, predicative adjectives and attributive adjectives look
-          identical and must be distinguished simply from the context.
+          identical and must be distinguished from the context.
 
 .. csv-table:: Example: 2SA 14:20
 
@@ -110,7 +106,7 @@ adjective can be indefinite even if it describes a :ref:`definite<definiteness>`
 Functions as a :ref:`noun<noun>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Rather than describing a noun, sometimes an adjective itself functions as a noun in the sentence. This is called a nominal adjective.
+Rather than describing a noun, sometimes an adjective itself functions as a noun in the sentence. This is called a ***nominal adjective***.
 
 .. csv-table:: Example: PSA 3:2
 
@@ -131,7 +127,7 @@ Rather than describing a noun, sometimes an adjective itself functions as a noun
 Functions as an :ref:`adverb<adverb>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Sometimes an adjective functions as an adverb, meaning that it describes a verb instead of a noun.  This is called an adverbial adjective.
+Sometimes an adjective functions as an adverb, meaning that it describes a verb instead of a noun.  This is called an ***adverbial adjective***.
 
 .. csv-table:: Example: JOS 21:10
 
@@ -150,7 +146,7 @@ compares two or more items
 
 In Biblical Hebrew, adjectives are often used with either the
 preposition מִן ("from") or the phrase מִכֹּל ("from all") to express a
-comparison between two or more items.  This is called a comparative adjective.
+comparison between two or more items.  This is called a ***comparative adjective***.
 
 .. csv-table:: Example: JDG 14:18
 
@@ -173,7 +169,7 @@ adjectives with stronger meaning
 
 In Biblical Hebrew, the meaning of an adjective can be strengthened by
 pairing it either with the word מְאֹד ("very") or with the phrase
-לֵאלֹהִים ("to God").  This is called an intensive adjective.
+לֵאלֹהִים ("to God").  This is called an ***intensive adjective***.
 
 .. csv-table:: Example: GEN 1:31
 
@@ -195,7 +191,7 @@ adjectives with strongest meaning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Biblical Hebrew utilizes different ways to strengthen an adjective to
-its greatest degree ("the smallest", "the greatest", etc.). This is called a superlative adjective.
+its greatest degree ("the smallest", "the greatest", etc.). This is called a ***superlative adjective***.
 Usually, the superlative meaning of an adjective must be determined from the context.
 
 .. csv-table:: Example: 1SA 16:11 –– adjective with the :ref:`definite article<particle_definite_article>`
