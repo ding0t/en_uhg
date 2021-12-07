@@ -7,13 +7,11 @@ Adjective
 
 Summary
 -------
-
 .. include:: includes/adjective-summary.rst
 .. include:: includes/hebrew/adjective-summary-hebrew.rst
 
 Article
 -------
-
 In Bibical Hebrew, adjectives match the :ref:`noun<noun>` they describe in
 gender (:ref:`masculine<gender_masculine>` or :ref:`feminine<gender_feminine>`)
 and number (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`).
@@ -28,7 +26,6 @@ the accompanying adjective may match the implied number rather than the apparent
 
 Form
 ----
-
 The forms of the adjective closely resemble the forms of the
 :ref:`common noun<noun_common>`.
 
@@ -57,15 +54,9 @@ Function
 
 Describes a noun
 ~~~~~~~~~~~~~~~~
-
 .. _adjective-attributive:
-
 .. include:: includes/adjective-attributive.rst
-
-.. note:: When a :ref:`cardinal<adjective_cardinal_number>` or an
-          :ref:`ordinal<adjective_ordinal_number>` number functions as an attributive
-          adjective, sometimes it comes *before* the noun it describes
-          instead of *after* the noun.
+.. include:: includes/notes/adjective-number.rst
 
 .. csv-table:: Example: 1SA 18:17
 
@@ -85,8 +76,7 @@ Describes a noun
 
 .. include:: includes/adjective-predicative.rst
 
-.. note:: Sometimes, predicative adjectives and attributive adjectives look
-          identical and must be distinguished from the context.
+.. include:: includes/notes/adjective-congruence.rst
 
 .. csv-table:: Example: 2SA 14:20
 
