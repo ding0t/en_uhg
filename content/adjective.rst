@@ -8,12 +8,13 @@ Adjective
 Summary
 -------
 
-.. include:: includes/adjective_summary.rst
+.. include:: includes/adjective-summary.rst
+.. include:: includes/adjective-summary-hebrew.rst
 
 Article
 -------
 
-In Bibical Hebrew, adjectives always match the :ref:`noun<noun>` they describe in
+In Bibical Hebrew, adjectives match the :ref:`noun<noun>` they describe in
 gender (:ref:`masculine<gender_masculine>` or :ref:`feminine<gender_feminine>`)
 and number (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`).
 However, there are some exceptions to this rule. If a noun is :ref:`dual<number_dual>`,

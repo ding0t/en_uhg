@@ -1,0 +1,1 @@
+However, in Biblical Hebrew an adjective itself can function as a noun or even as an :ref:`adverb<adverb>` (to describe a :ref:`verb<verb>`).
