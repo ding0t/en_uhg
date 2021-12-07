@@ -1,1 +1,1 @@
-An adjective is a word that describes a person(s), place(s), or thing(s). Within a sentence, usually an adjective describes a noun.  However, in :include:`<includes/lanugage.txt>`  Biblical Hebrew an adjective itself can function as a noun or even as an adverb (to describe a verb).
+An adjective is a word that describes a person(s), place(s), or thing(s). Within a sentence, usually an adjective describes a noun.  However, in :include:`<includes/language.txt>`  Biblical Hebrew an adjective itself can function as a noun or even as an adverb (to describe a verb).
