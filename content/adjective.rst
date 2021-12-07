@@ -127,7 +127,7 @@ Rather than describing a noun, sometimes an adjective itself functions as a noun
 Functions as an :ref:`adverb<adverb>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Sometimes an adjective functions as an adverb, meaning that it describes a verb instead of a noun.  This is called an ***adverbial adjective***.
+Sometimes an adjective functions as an adverb, meaning that it describes a verb instead of a noun.  This is called an *adverbial adjective*.
 
 .. csv-table:: Example: JOS 21:10
 
@@ -146,7 +146,7 @@ compares two or more items
 
 In Biblical Hebrew, adjectives are often used with either the
 preposition מִן ("from") or the phrase מִכֹּל ("from all") to express a
-comparison between two or more items.  This is called a ***comparative adjective***.
+comparison between two or more items.  This is called a *comparative adjective*.
 
 .. csv-table:: Example: JDG 14:18
 
@@ -169,7 +169,7 @@ adjectives with stronger meaning
 
 In Biblical Hebrew, the meaning of an adjective can be strengthened by
 pairing it either with the word מְאֹד ("very") or with the phrase
-לֵאלֹהִים ("to God").  This is called an ***intensive adjective***.
+לֵאלֹהִים ("to God").  This is called an *intensive adjective*.
 
 .. csv-table:: Example: GEN 1:31
 
@@ -191,7 +191,7 @@ adjectives with strongest meaning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Biblical Hebrew utilizes different ways to strengthen an adjective to
-its greatest degree ("the smallest", "the greatest", etc.). This is called a ***superlative adjective***.
+its greatest degree ("the smallest", "the greatest", etc.). This is called a *superlative adjective*.
 Usually, the superlative meaning of an adjective must be determined from the context.
 
 .. csv-table:: Example: 1SA 16:11 –– adjective with the :ref:`definite article<particle_definite_article>`
