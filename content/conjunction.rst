@@ -24,9 +24,9 @@ of meanings which may or may not be different than the individual
 component words.
 
 Generally, there are eight different kinds of conjunctions in Biblical Hebrew: :ref:`conjunctive<conjunction-conjunctive>` ("and");
-:ref:`alternative<conjunction-alternative>` ("or"); :ref:`contrastive<conjunction-contrastive>` ("but");
+:ref:`alternative<conjunction-alternative>` ("or"); :ref:`contrastive<conjunction-contrastive>` ("but"); :ref:`explicative<conjunction-explicative>` ("surely");
 :ref:`causal<conjunction-causal>` ("for"); :ref:`conditional<conjunction-conditional>` ("if");
-:ref:`concessive<conjunction-concessive>` ("except"); :ref:`affirmative<conjunction-affirmative>` ("surely");
+:ref:`concessive<conjunction-concessive>` ("except");
 :ref:`restrictive<conjunction-restrictive>` ("only"). Many conjunctions in Biblical Hebrew have potential to function in multiple categories.
 
 Sentences in Biblical Hebrew often begin with the conjunction ו (as either a consonant or a shureq vowel).
@@ -76,7 +76,7 @@ relationships:
 Conjunctive
 ^^^^^^^^^^^
 
-A conjunctive conjunction simply joins two words/phrases/sentences together and is usually translated as "and" in
+A *conjunctive* conjunction simply joins two words/phrases/sentences together and is usually translated as "and" in
 English.  This kind of conjunction can be used either comparatively (joining similar ideas) or contrastively (joining dissimilar ideas).
 
 .. csv-table:: Example: GEN 2:17
@@ -116,7 +116,7 @@ can be translated as “while” or “when” in English.
 Alternative
 ^^^^^^^^^^^
 
-An alternative conjunction compares two words/phrases/sentences as alternates and is usually
+An *alternative* conjunction compares two words/phrases/sentences as alternates and is usually
 translated as “or” in English.
 
 .. csv-table:: Example: EXO 20:10
@@ -136,7 +136,7 @@ translated as “or” in English.
 Contrastive
 ^^^^^^^^^^^
 
-A contrastive conjunction contrasts two words/phrases/sentences as different in some way and is usually translated as “but” in
+A *contrastive* conjunction contrasts two words/phrases/sentences as different in some way and is usually translated as “but” in
 English.
 
 .. csv-table:: Example: GEN 6:8
@@ -146,14 +146,15 @@ English.
   **But-Noah** found favor in-eyes-of Yahweh.
   **But Noah** found favor in the eyes of Yahweh.
 
-.. _conjunction-affirmative:
+.. _conjunction-explicative:
 
 Explicative
 ^^^^^^^^^^^
 
-An affirmative conjunction connects two words/phrases/sentences in such a way that the second
+An *explicative* conjunction connects two words/phrases/sentences in such a way that the second
 restates the first, sometimes with a nuance of either strengthening or adding to the first.
 This kind of conjunction is often translated “even” (or is sometimes left untranslated) in English.
+This kind of conjunction is similar to an :ref:`affirmation particle<particle_affirmation>`.
 
 .. csv-table:: Example: GEN 4:4
 
@@ -194,7 +195,7 @@ Causal
 ~~~~~~
 
 This is the most common use of the word כִּי. However, sometimes it is
-extremely difficult to distinguish between a causal conjunction that
+extremely difficult to distinguish between a *causal* conjunction that
 expresses purpose and one that expresses result. When כִּי functions as
 a causal conjunction, it is often translated into English simply as
 "for", which can express either purpose or result.
@@ -306,7 +307,7 @@ meaning of the word in any specific instance.
 Conditional
 ~~~~~~~~~~~
 
-The word אִם is the standard conditional conjunction in Biblical Hebrew.
+The word אִם is the standard *conditional* conjunction in Biblical Hebrew.
 It is most often used to describe a hypothetical condition and
 translated as "if" in English. However, this term can can be nuanced and
 translated in a variety of specific ways, and it can be joined with
@@ -387,8 +388,8 @@ usually translated as "or" in English.
 וְעַתָּה
 ----
 
-The word עַתָּה ("now") in Biblical Hebrew often functions as a temporal adverb
-in a sentence. However, when עַתָּה appears at the beginning of a
+The word עַתָּה ("now") in Biblical Hebrew often functions as a :ref:`temporal adverb<adverb-temporal>`, and sometimes as a :ref:`sentential adverb<adverb-sentential>`. 
+However, when עַתָּה appears at the beginning of a
 sentence or clause, it usually functions not as an adverb but as a
 conjunction, either standing alone or as a compound conjunction (when
 paired with the prefix וְ or with particles such as גַּם or כִּי). In
@@ -489,7 +490,7 @@ that...not" (or similar phrasing) in English.
 רַק
 ----
 
-The word רַק is the standard restrictive conjunction in Biblical Hebrew.  A restrictive conjunction sets apart a clause or phrase
+The word רַק is the standard *restrictive* conjunction in Biblical Hebrew.  A restrictive conjunction sets apart a clause or phrase
 as unique within its context. Sometimes this restrictive function emphasizes a particular item as the most important or most
 prominent; in these cases, the conjunction is similar in meaning to an :ref:`affirmative<conjunction-affirmative>` conjunction.
 At other times, however, this restrictive function introduces a particular limitation to something previously expressed; in
@@ -514,7 +515,7 @@ Compound conjunctions
 ~~~~~~~~
 
 Sometimes the words כִּי and אִם are paired together to form a compound conjunction that functions most often as a strong contrastive
-or a strong concessive ("except"). In English, it is usually translated as "but",
+or a strong *concessive* ("except"). In English, it is usually translated as "but",
 "but if", or "except". It is recommended to always consult a dictionary
 or lexicon for the exact meaning of any specific occurrence of this
 compound conjunction.
@@ -530,7 +531,7 @@ compound conjunction.
 ~~~~~~~~
 
 Sometimes the words אַף and כִּי are paired together to form a compound
-conjunction that functions as a strong :ref:`affirmative<conjunction-affirmative>`.  This compound
+conjunction that functions as a strong *affirmative* (similar to an :ref:`affirmation particle<particle_affirmation>`).  This compound
 conjunction can appear with or without the prefix conjunction וְ
 ("and").
 
