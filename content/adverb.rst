@@ -134,9 +134,7 @@ describes manner of action
 Describes an entire clause or sentence
 --------------------------------------
 
-Sometimes an adverb describes an entire clause or sentence rather than the individual verb.
-When an adverb functions in this way, it is called a sentential adverb.
-Sentential adverbs are closely related to :ref:`conjunctions<conjunction>`.
+.. include:: includes/adverb-sentential.rst
 
 .. csv-table:: Example: GEN 9:4 ––  אַךְ as a restrictive adverb
 
