@@ -1,0 +1,1 @@
+An ``adverb`` is a word that describes a verb, or sometimes describes a sentence as a whole. 

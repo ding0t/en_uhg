@@ -1,16 +1,14 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/adverb.rst
 
 .. _adverb:
-
 Adverb
 ======
 
 Summary
 -------
-
 .. include:: includes/adverb_summary.txt
-
-.. note:: Because there are not many direct adverbs in Biblical Hebrew, other kinds of words often function as adverbs.
+.. include:: includes/hebrew/adverb-summary-hebrew.rst
+.. include:: includes/notes/adverbs-hebrew.rst
 
 Article
 -------
