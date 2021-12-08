@@ -92,9 +92,6 @@ Describes a noun
 
 .. _adjective-nominal:
 .. include:: includes/adjective-nominal.rst
-Functions as a :ref:`noun<noun>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Rather than describing a noun, sometimes an adjective itself functions as a noun in the sentence. This is called a ``nominal`` adjective.
 
 .. csv-table:: Example: PSA 3:2
 
@@ -111,11 +108,7 @@ Rather than describing a noun, sometimes an adjective itself functions as a noun
   "Therefore the **Holy One** of Israel says,"
 
 .. _adjective-adverbial:
-
-Functions as an :ref:`adverb<adverb>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Sometimes an adjective functions as an adverb, meaning that it describes a verb instead of a noun.  This is called an ``adverbial`` adjective.
+.. include:: includes/adjective-adverbial.rst
 
 .. csv-table:: Example: JOS 21:10
 
@@ -128,11 +121,8 @@ Other uses of adjectives
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _adjective-comparative:
-compares two or more items
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-In Biblical Hebrew, adjectives are often used with either the
-preposition מִן ("from") or the phrase מִכֹּל ("from all") to express a
-comparison between two or more items.  This is called a ``comparative`` adjective.
+.. include:: includes/adjective-comparative.rst
+.. include:: includes/hebrew/adjective-comparative-hebrew.rst
 
 .. csv-table:: Example: JDG 14:18
 
@@ -149,11 +139,8 @@ comparison between two or more items.  This is called a ``comparative`` adjectiv
   Now the serpent was **more shrewd than any other** beast of the field
 
 .. _adjective-intensive:
-adjectives with stronger meaning
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In Biblical Hebrew, the meaning of an adjective can be strengthened by
-pairing it either with the word מְאֹד ("very") or with the phrase
-לֵאלֹהִים ("to God").  This is called an ``intensive`` adjective.
+.. include:: includes/adjective-intensive.rst
+.. include:: includes/hebrew/adjective-intensive-hebrew.rst
 
 .. csv-table:: Example: GEN 1:31
 
@@ -170,11 +157,8 @@ pairing it either with the word מְאֹד ("very") or with the phrase
   a **very large** city
 
 .. _adjective-superlative:
-adjectives with strongest meaning
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Biblical Hebrew utilizes different ways to strengthen an adjective to
-its greatest degree ("the smallest", "the greatest", etc.). This is called a ``superlative`` adjective.
-Usually, the superlative meaning of an adjective must be determined from the context.
+.. include:: includes/adjective-superlative.rst
+.. include:: includes/hebrew/adjective-superlative-hebrew.rst
 
 .. csv-table:: Example: 1SA 16:11 –– adjective with the :ref:`definite article<particle_definite_article>`
 
