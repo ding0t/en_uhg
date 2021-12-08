@@ -91,10 +91,9 @@ Describes a noun
   The word of Yahweh that you have spoken is **good**.
 
 .. _adjective-nominal:
-
+.. include:: includes/adjective-nominal.rst
 Functions as a :ref:`noun<noun>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 Rather than describing a noun, sometimes an adjective itself functions as a noun in the sentence. This is called a ``nominal`` adjective.
 
 .. csv-table:: Example: PSA 3:2
