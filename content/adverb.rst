@@ -31,6 +31,7 @@ Many adverbs in Biblical Hebrew have the potential to serve multiple
 functions. For example, כֹּה can function as an adverb of place, an
 adverb of time, or an adverb of manner; פֹּה can function as an adverb
 of time or an adverb of place, etc. 
+
 .. _adverb-locative:
 .. include:: includes/adverb-locative.rst
 
@@ -74,6 +75,7 @@ of time or an adverb of place, etc.
   אָ֣ז הוּחַ֔ל לִקְרֹ֖א בְּשֵׁ֥ם יְהוָֽה
   **Then** he-began to-call-out in-name-of Yahweh
   **At that time** people began to call on the name of Yahweh.
+
 .. _adverb-quantitative:
 .. include:: includes/adverb-quantitative.rst
 
@@ -90,6 +92,7 @@ of time or an adverb of place, etc.
   "And-he-called-out angel-of Yahweh to\_Abraham **second**
      from\_the-heavens"
   The angel of Yahweh called to Abraham **a second time** from heaven
+
 .. _adverb-manner:
 .. include:: includes/adverb-manner.rst
 
@@ -105,6 +108,7 @@ of time or an adverb of place, etc.
   **mar** tsoreah sham gibbor
   **bitterly** cries there hero.
   even brave soldiers will cry **loudly**.
+
 .. _adverb-sentential:
 Describes an entire clause or sentence
 --------------------------------------
@@ -131,6 +135,7 @@ Describes an entire clause or sentence
   **raq** 'im-shamoa' tishma' beqol yehwah 'eloheykha
   **only** if\_listening you-will-listen to-voice-of Yahweh your-God
   if **only** you diligently listen to the voice of Yahweh your God
+
 .. _adverb-nominal:
 Functions as a noun
 -------------------
@@ -142,6 +147,7 @@ This is called a nominal adverb.
   יִשָּׁבַ֖ע בֵּאלֹהֵ֣י אָמֵ֑ן
   he-will-swear by-God-of **Amen**
   "Whoever ... will swear by me, the God of **truth**"
+
 Other words functioning as adverbs
 ----------------------------------
 Because Biblical Hebrew does not contain many adverbs, sometimes other kinds of words can function as adverbs.
