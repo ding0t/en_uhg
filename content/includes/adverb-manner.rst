@@ -1,0 +1,2 @@
+describes manner of action
+~~~~~~~~~~~~~~~~~~~~~~~~~~
