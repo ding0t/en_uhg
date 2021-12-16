@@ -110,8 +110,6 @@ of time or an adverb of place, etc.
   even brave soldiers will cry **loudly**.
 
 .. _adverb-sentential:
-Describes an entire clause or sentence
---------------------------------------
 .. include:: includes/adverb-sentential.rst
 
 .. csv-table:: Example: GEN 9:4 ––  אַךְ as a restrictive adverb
@@ -137,10 +135,7 @@ Describes an entire clause or sentence
   if **only** you diligently listen to the voice of Yahweh your God
 
 .. _adverb-nominal:
-Functions as a noun
--------------------
-In Biblical Hebrew, sometimes an adverb functions as a noun rather than functioning to describe the verb.
-This is called a nominal adverb.
+.. include:: includes/adverb-nominal.rst
 
 .. csv-table:: Example: ISA 65:16
 
