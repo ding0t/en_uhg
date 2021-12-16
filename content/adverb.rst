@@ -5,7 +5,7 @@ Adverb
 
 Summary
 -------
-.. include:: includes/adverb-summary.txt
+.. include:: includes/adverb-summary.rst
 .. include:: includes/hebrew/adverb-summary-hebrew.rst
 .. include:: includes/notes/adverbs-hebrew.rst
 
