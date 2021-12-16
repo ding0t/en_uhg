@@ -1,5 +1,4 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/conjunction.rst
-
 .. _conjunction:
 
 Conjunction
@@ -7,12 +6,10 @@ Conjunction
 
 Summary
 -------
-
-.. include:: includes/conjunction_summary.txt
+.. include:: includes/conjunction-summary.rst
 
 Article
 -------
-
 Biblical Hebrew contains only one primary conjunction (the prefix וְ),
 but a whole family of other words also function as conjunctions. A
 conjunction is a word that shows a relationship between two different
@@ -23,7 +20,7 @@ components, but rather as a single grammatical entity with its own range
 of meanings which may or may not be different than the individual
 component words.
 
-Generally, there are eight different kinds of conjunctions in Biblical Hebrew: :ref:`conjunctive<conjunction-conjunctive>` ("and");
+Generally, there are eight different kinds of conjunctions: :ref:`conjunctive<conjunction-conjunctive>` ("and");
 :ref:`alternative<conjunction-alternative>` ("or"); :ref:`contrastive<conjunction-contrastive>` ("but"); :ref:`explicative<conjunction-explicative>` ("surely");
 :ref:`causal<conjunction-causal>` ("for"); :ref:`conditional<conjunction-conditional>` ("if");
 :ref:`concessive<conjunction-concessive>` ("except");
@@ -46,7 +43,6 @@ The shewa in וְ can lengthen to a vowel, usually pathah (when paired with the 
 
 Form
 ~~~~
-
 The conjunction וְ can appear either as a prefix to a word or particle,
 or as part of a sequential verbal form.
 
@@ -67,17 +63,11 @@ or as part of a sequential verbal form.
 
 Function
 ~~~~~~~~
-
 The conjunction וְ can express any of the following connective
 relationships:
 
 .. _conjunction-conjunctive:
-
-Conjunctive
-^^^^^^^^^^^
-
-A *conjunctive* conjunction simply joins two words/phrases/sentences together and is usually translated as "and" in
-English.  This kind of conjunction can be used either comparatively (joining similar ideas) or contrastively (joining dissimilar ideas).
+.. include:: includes/conjunction-conjunctive.rst
 
 .. csv-table:: Example: GEN 2:17
 
@@ -112,12 +102,7 @@ can be translated as “while” or “when” in English.
      wept on his neck."
 
 .. _conjunction-alternative:
-
-Alternative
-^^^^^^^^^^^
-
-An *alternative* conjunction compares two words/phrases/sentences as alternates and is usually
-translated as “or” in English.
+.. include:: includes/conjunction-alternative.rst
 
 .. csv-table:: Example: EXO 20:10
 
@@ -132,11 +117,9 @@ translated as “or” in English.
      who is within your gates."
 
 .. _conjunction-contrastive:
-
 Contrastive
 ^^^^^^^^^^^
-
-A *contrastive* conjunction contrasts two words/phrases/sentences as different in some way and is usually translated as “but” in
+A ``contrastive`` conjunction contrasts two words/phrases/sentences as different in some way and is usually translated as “but” in
 English.
 
 .. csv-table:: Example: GEN 6:8
@@ -150,8 +133,7 @@ English.
 
 Explicative
 ^^^^^^^^^^^
-
-An *explicative* conjunction connects two words/phrases/sentences in such a way that the second
+An ``explicative`` conjunction connects two words/phrases/sentences in such a way that the second
 restates the first, sometimes with a nuance of either strengthening or adding to the first.
 This kind of conjunction is often translated “even” (or is sometimes left untranslated) in English.
 This kind of conjunction is similar to an :ref:`affirmation particle<particle_affirmation>`.
@@ -166,7 +148,6 @@ This kind of conjunction is similar to an :ref:`affirmation particle<particle_af
 
 ֹאו
 ----
-
 The word אוֹ is the standard :ref:`alternative<conjunction-alternative>` conjunction in Biblical Hebrew,
 usually translated as "or" in English.
 
@@ -179,9 +160,7 @@ usually translated as "or" in English.
 
 כִּי
 ----
-
 .. include:: includes/ci_flexible.txt
-
 The word כִּי is the standard causal conjunction in Biblical Hebrew, and
 is usually translated as "for" in English. However, it is also commonly
 used as a conditional conjunction (usually translated, "if"). Often,
@@ -190,19 +169,16 @@ causal when it occurs in the middle (or toward the end) of a sentence,
 but there are notable exceptions to this general rule.
 
 .. _conjunction-causal:
-
 Causal
 ~~~~~~
-
 This is the most common use of the word כִּי. However, sometimes it is
-extremely difficult to distinguish between a *causal* conjunction that
+extremely difficult to distinguish between a ``causal`` conjunction that
 expresses purpose and one that expresses result. When כִּי functions as
 a causal conjunction, it is often translated into English simply as
 "for", which can express either purpose or result.
 
 expresses purpose
 ^^^^^^^^^^^^^^^^^
-
 This means to express the purpose, reason, or cause for an action/event.
 In English, this kind of causal conjunction is usually translated as
 "for" or "because".
@@ -220,7 +196,6 @@ In English, this kind of causal conjunction is usually translated as
 
 expresses result
 ^^^^^^^^^^^^^^^^
-
 This means to express the result or intended outcome of an action/event.
 In English, this kind of causal conjunction is usually translated as
 "for" or “so that”.
@@ -234,19 +209,11 @@ In English, this kind of causal conjunction is usually translated as
 
 Conditional
 ~~~~~~~~~~~
-
 This is also a very common use of the word כִּי in Biblical Hebrew. This
 conjunction can describe either a hypothetical condition or an actual
 condition, as determined by the context.
 
-expresses a hypothetical condition
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-A hypothetical condition expresses an imaginary action or event that has
-not actually happened in reality. This kind of conditional conjunction
-is usually translated as "if" in English. Hypothetical conditions have
-potential to convey many different nuances of possibility and/or
-desirability.
+.. include:: includes/conditional-hypothetical.rst
 
 .. csv-table:: Example: 2KI 4:29
 
@@ -259,14 +226,7 @@ desirability.
   "**If** you meet any man, do not greet him, and **if** anyone greets
      you, do not answer him."
 
-expresses an actual condition
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-An actual condition expresses an action or event that has actually
-happened in reality, and is usually translated as "when" or "while" in
-English. Usually, this kind of condition indicates something that is
-happening concurrently with the main action/event being described, or
-something that has happened in the past in certain circumstances.
+.. include:: includes/conditional-hypothetical.rst
 
 .. csv-table:: Example: GEN 27:1
 
@@ -278,7 +238,6 @@ something that has happened in the past in certain circumstances.
 
 Other uses
 ~~~~~~~~~~
-
 The word כִּי can also express other conjunctive meanings, often as an
 contrastive following a negated statement. If in doubt, it is
 recommended to always consult a dictionary or lexicon for the exact
@@ -303,11 +262,9 @@ meaning of the word in any specific instance.
           in any specific instance.
 
 .. _conjunction-conditional:
-
 Conditional
 ~~~~~~~~~~~
-
-The word אִם is the standard *conditional* conjunction in Biblical Hebrew.
+The word אִם is the standard ``conditional`` conjunction in Biblical Hebrew.
 It is most often used to describe a hypothetical condition and
 translated as "if" in English. However, this term can can be nuanced and
 translated in a variety of specific ways, and it can be joined with
@@ -315,14 +272,7 @@ various other particles to form different compound conjunctions.
 Therefore, this word must be translated always with senstivity to the
 context to express the correct nuance.
 
-expresses a hypothetical condition
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-A hypothetical condition expresses an imaginary action or event that has
-not actually happened in reality. This kind of conditional conjunction
-is usually translated as "if" in English. Hypothetical conditions have
-potential to convey many different nuances of possibility and/or
-desirability.
+.. include:: includes/conditional-hypothetical.rst
 
 .. csv-table:: Example: GEN 18:26
 
