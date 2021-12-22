@@ -1,0 +1,1 @@
+Many conjunctions in Biblical Hebrew have potential to function in multiple categories.

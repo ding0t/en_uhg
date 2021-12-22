@@ -20,8 +20,8 @@ components, but rather as a single grammatical entity with its own range
 of meanings which may or may not be different than the individual
 component words.
 
-.. include:: includes/conjunction-kinds.rst
-.. include:: includes/conjunction-kinds-hebrew.rst
+.. include:: includes/conjunction-categories.rst
+.. include:: includes/hebrew/conjunction-categories-hebrew.rst
 
 Sentences in Biblical Hebrew often begin with the conjunction ו (as either a consonant or a shureq vowel).
 This conjunction וְ ("and") cannot stand alone as an independent word but must be connected to another word as a prefix.
