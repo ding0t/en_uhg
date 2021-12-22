@@ -7,6 +7,7 @@ Conjunction
 Summary
 -------
 .. include:: includes/conjunction-summary.rst
+.. include:: includes/hebrew/conjunction-summary-hebrew.rst
 
 Article
 -------
