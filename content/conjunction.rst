@@ -12,25 +12,16 @@ Summary
 Article
 -------
 Biblical Hebrew contains only one primary conjunction (the prefix וְ),
-but a whole family of other words also function as conjunctions. A
-conjunction is a word that shows a relationship between two different
-words, phrases, sentences, or even entire paragraphs. In Biblical Hebrew, :ref:`particles<particle>`
+but a whole family of other words also function as conjunctions.
+In Biblical Hebrew, :ref:`particles<particle>`
 and conjunctions are often combined with each other to form compound conjunctions.
 Compound conjunctions should not be considered merely as the sum of the
 components, but rather as a single grammatical entity with its own range
 of meanings which may or may not be different than the individual
 component words.
 
-Generally, there are eight different kinds of conjunctions:
-:ref:`conjunctive<conjunction-conjunctive>` ("and");
-:ref:`alternative<conjunction-alternative>` ("or");
-:ref:`contrastive<conjunction-contrastive>` ("but"); 
-:ref:`explicative<conjunction-explicative>` ("surely");
-:ref:`causal<conjunction-causal>` ("for"); 
-:ref:`conditional<conjunction-conditional>` ("if");
-:ref:`concessive<conjunction-concessive>` ("except");
-:ref:`restrictive<conjunction-restrictive>` ("only"). 
-Many conjunctions in Biblical Hebrew have potential to function in multiple categories.
+.. include:: includes/conjunction-kinds.rst
+.. include:: includes/conjunction-kinds-hebrew.rst
 
 Sentences in Biblical Hebrew often begin with the conjunction ו (as either a consonant or a shureq vowel).
 This conjunction וְ ("and") cannot stand alone as an independent word but must be connected to another word as a prefix.
