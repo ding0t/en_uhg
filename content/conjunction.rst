@@ -113,10 +113,7 @@ relationships:
      who is within your gates."
 
 .. _conjunction-contrastive:
-Contrastive
-^^^^^^^^^^^
-A ``contrastive`` conjunction contrasts two words/phrases/sentences as different in some way and is usually translated as “but” in
-English.
+.. include:: includes/conjunction-contrastive.rst
 
 .. csv-table:: Example: GEN 6:8
 
