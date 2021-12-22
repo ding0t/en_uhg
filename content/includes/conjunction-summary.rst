@@ -1,1 +1,2 @@
-Conjunctions connect words, phrases, sentences, or paragraphs. The most common conjunctions in English are "and," "or," "but," and "for."  Some particles in Biblical Hebrew are closely related to conjunctions.
+Conjunctions connect words, phrases, sentences, or paragraphs.
+The most common conjunctions in English are "and," "or," "but," and "for."

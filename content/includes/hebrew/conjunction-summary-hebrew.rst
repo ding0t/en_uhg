@@ -1,0 +1,1 @@
+Some :ref:`particles<particle>` in Biblical Hebrew are closely related to conjunctions.
