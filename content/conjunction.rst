@@ -1,6 +1,5 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/conjunction.rst
 .. _conjunction:
-
 Conjunction
 ===========
 
@@ -75,6 +74,7 @@ relationships:
   "But from the tree of the knowledge of good **and evil** you may not
      eat"
 
+.. _conjunction-simultaneous:
 .. include:: includes/conjunction-simultaneous.rst
 
 .. csv-table:: Example: GEN 1:5
@@ -123,13 +123,7 @@ relationships:
   **But Noah** found favor in the eyes of Yahweh.
 
 .. _conjunction-explicative:
-
-Explicative
-^^^^^^^^^^^
-An ``explicative`` conjunction connects two words/phrases/sentences in such a way that the second
-restates the first, sometimes with a nuance of either strengthening or adding to the first.
-This kind of conjunction is often translated “even” (or is sometimes left untranslated) in English.
-This kind of conjunction is similar to an :ref:`affirmation particle<particle_affirmation>`.
+.. include:: includes/conjunction-explicative.rst
 
 .. csv-table:: Example: GEN 4:4
 
