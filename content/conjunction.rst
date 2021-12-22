@@ -75,8 +75,7 @@ relationships:
   "But from the tree of the knowledge of good **and evil** you may not
      eat"
 
-In Biblical Hebrew, when a conjunctive conjunction connects two events that happen at the same time, it has a similar meaning to a conditional conjunction expressing an actual condition. In these cases, the conjunction 
-can be translated as “while” or “when” in English.
+.. include:: includes/conjunction-simultaneous.rst
 
 .. csv-table:: Example: GEN 1:5
 
