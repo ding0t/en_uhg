@@ -1,0 +1,1 @@
+The word רַק is the standard *restrictive* conjunction in Biblical Hebrew.
