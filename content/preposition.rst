@@ -1,45 +1,17 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/preposition.rst
-
 .. _preposition:
-
 Preposition
 ===========
-
 Summary
 -------
-
-.. include:: includes/preposition_summary.txt
-
+.. include:: includes/preposition-summary.rst
 Article
 -------
-
-Biblical Hebrew has four main prepositions: the prefix בְּ (in, at, by);
-the prefix לְ (to, for); the prefix כְּ (as, like); and the prefix מִ
-(which is a shortened form of the independent preposition מִן, meaning
-"from"). However, there is also a family of other prepositions in
-Biblical Hebrew. It is common in Biblical Hebrew for prepositions to be
-combined together or with a noun to form new words that have their own
-range of meanings (similar to :ref:`compound conjunctions<conjunction-compound>`)
-that may or may not overlap with the meaning of the individual component terms.
-
-In Biblical Hebrew, prepositions also function to describe the relationship between a
-:ref:`non-finite<verb-non-finite>` verbal complement (:ref:`infinitive construct<infinitive_construct>` verbs
-and :ref:`active<participle_active>` or :ref:`passive<participle_passive>` participles) and the :ref:`finite<verb-finite>` 
-main verb of a sentence. In some of these instances, the preposition introduces a dependent verbal phrase
-and thus changes its typical meaning. These specialized uses of prepositions are listed in the article
-on :ref:`infinitive construct<infinitive_construct>` verbs.
-
-.. note:: Of all the different kinds of words, prepositions are perhaps the
-          most flexible in their meaning and are often translated in a variety of
-          ways, or sometimes even left untranslated. For this reason, prepositions
-          must always be translated with great sensitivity to the context of each
-          use. A dictionary or lexicon will describe the various possible meanings
-          of each preposition, but generally will not include a complete list of
-          individual uses.
-
+.. include:: includes/preposition-article.rst
+.. include:: includes/hebrew/preposition-article-hebrew.rst
+.. include:: includes/note/preposition-meaning.rst
 Form
 ----
-
 
 .. csv-table:: Prefix Preposition (with and without the definite article)
 
@@ -51,19 +23,9 @@ Form
 
 Types
 -----
-
-In Biblical Hebrew, there are 11 general types of prepositions: indirect object; spatial; locative; temporal; instrumental;
-correlative; comparative; directional; causal; explanatory; and direct object. 
-However, this are also other types of prepositions in Biblical Hebrew.  The specific meanings of individual prepositions can
-be found in a dictionary or lexicon.
-
+.. include:: includes/preposition-categories.rst
 .. _preposition-ind-obj:
-
-Indirect Object
-~~~~~~~~~~~~~~~
-
-A common use of the preposition לְ (also אֶל, with verbs of speaking) is to indicate the indirect object or recipient of the verbal action.
-When used in this way, the preposition is usually transated into English with "to" or "for", or it can be left untranslated.
+.. include:: includes/preposition-ind-obj.rst
 
 .. csv-table:: GEN 1:5 –– with the prefixed preposition לְ
 
@@ -80,12 +42,7 @@ When used in this way, the preposition is usually transated into English with "t
   The woman said **to** the serpent
 
 .. _preposition-spatial:
-
-Spatial
-~~~~~~~
-
-Spatial prepositions are translated into English with terms such as "in", "on", "under", "with", "beside", etc.
-This is a common use of the preposition בְּ.
+.. include:: includes/preposition-spatial.rst
 
 .. csv-table:: GEN 2:7 –– with the prefixed preposition בְּ
 
@@ -102,12 +59,7 @@ This is a common use of the preposition בְּ.
   The Spirit of God was moving **above** the surface of the waters.
 
 .. _preposition-locative:
-
-Locative
-~~~~~~~~
-
-Locative prepositions are translated into English with terms such as "to" or "from", etc.
-This is a common use of the prepositions אֶל and מִן.
+.. includes:: preposition-locative.rst
 
 .. csv-table:: GEN 8:9 ––  with the prefixed preposition לְ
 
@@ -124,12 +76,7 @@ This is a common use of the prepositions אֶל and מִן.
   Therefore Yahweh God sent him out **from** the garden of Eden
 
 .. _preposition-temporal:
-
-Temporal
-~~~~~~~~
-
-Temporal prepositions are translated into English with terms such as "in", "at", "until", "before", "after", etc.
-This is a common use of the preposition בְּ.
+.. include:: includes/preposition-temporal.rst
 
 .. csv-table:: GEN 1:1 ––  with the prefixed preposition בְּ
 
@@ -146,12 +93,7 @@ This is a common use of the preposition בְּ.
   **until** you return to the ground
 
 .. _preposition-instrumental:
-
-Instrumental
-~~~~~~~~~~~~
-
-Instrumental prepositions are translated into English with terms such as "by", "with", "by means of", etc.
-This is a common use of the preposition בְּ.
+.. include:: includes/preposition-instrumental.rst
 
 .. csv-table:: GEN 3:19 –– with the prefixed preposition בְּ
 
@@ -168,12 +110,7 @@ This is a common use of the preposition בְּ.
   She said "I have produced a man **with** Yahweh's help.
 
 .. _preposition-correlative:
-
-Correlative
-~~~~~~~~~~~
-
-Correlative prepositions are translated into English with terms such as "like", "as", "according to", etc.
-This is the primary use of the preposition כְּ.
+.. include:: includes/preposition-correlative.rst
 
 .. csv-table:: GEN 4:17 –– with the prefixed preposition כְּ
 
@@ -190,12 +127,7 @@ This is the primary use of the preposition כְּ.
   So Abram went **as** Yahweh had told him to do
 
 .. _preposition-comparative:
-
-Comparative
-~~~~~~~~~~~
-
-Comparative prepositions are translated into English with terms such as "more than" or "greater than", etc.
-This is a common use of the preposition מִן.
+.. include:: includes/preposition-comparative.rst
 
 .. csv-table:: Gen 29:30 –– with the prefixed preposition מִן
 
@@ -212,12 +144,7 @@ This is a common use of the preposition מִן.
   Now the serpent was **more** shrewd **than** any other beast of the field
 
 .. _preposition-directional:
-
-Directional
-~~~~~~~~~~~
-
-Directional prepositions are translated into English with terms such as "to", "toward", etc.
-This is a common use of the preposition לְ.
+.. include:: includes/preposition-directional.rst
 
 .. csv-table:: ISA 51:6 –– with the prefixed preposition לְ
 
@@ -234,12 +161,7 @@ This is a common use of the preposition לְ.
   and looked down **toward** Sodom
 
 .. _preposition-causal:
-
-Causal
-~~~~~~
-
-Causal prepositions are translated into English with terms such as "for" or "because", etc.
-This is a secondary use of the prepositions לְ and עַל.
+.. include:: includes/preposition-causal.rst
 
 .. csv-table:: GEN 4:6 ––  with the prefixed preposition לְ
 
@@ -256,12 +178,7 @@ This is a secondary use of the prepositions לְ and עַל.
   The men of this place will kill me **to get** Rebekah
 
 .. _preposition-explanatory:
-
-Explanatory
-~~~~~~~~~~~
-
-Explanatory prepositions are often translated into English with terms such as "as", "for", "to", or it can be left untranslated.
-This is a common use of the preposition לְ.
+.. include:: includes/preposition-explanatory.rst
 
 .. csv-table:: GEN 1:14 –– with the prefixed preposition לְ
 
@@ -278,13 +195,7 @@ This is a common use of the preposition לְ.
   I took her to be my wife
 
 .. _preposition-dir-obj:
-
-Direct Object
-~~~~~~~~~~~~~
-
-A rare use of the preposition לְ is to indicate the direct object of the verb. When used in this way,
-the preposition is almost always left untranslated in English.
-
+.. include:: includes/preposition-dir-obj.rst
 .. csv-table:: 1 CHR 29:22
 
   וַיַּמְלִ֤יכוּ שֵׁנִית֙ לִשְׁלֹמֹ֣ה בֶן־דָּוִ֔יד
