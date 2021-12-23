@@ -48,18 +48,12 @@ Function
 .. include:: includes/participle_active-function-heb-aram.rst
 
 .. _participle_active-verbal:
-.. _participle_active-verbal-VC:
-Functions as a :ref:`non-finite<verb-non-finite>` verbal complement
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-When functioning as a verbal complement, the participle is governed by
-the main verb of the sentence and has potential to be translated as past
-time, present time, or future time. A verbal participle can express
-continuous, imminent, habitual, or even stative action as determined by the
-context.
-
 .. note:: The subject of a verbal participle usually
           precedes the participle, in contrast to the normal conventions of Hebrew
           :ref:`word order<word_order>`.
+
+.. _participle_active-verbal-VC:
+.. include:: participle_active-verbal-VC.rst
 
 .. csv-table:: Example: HOS 2:10 –– expressing stative action
 
@@ -90,19 +84,7 @@ context.
   I **was fasting and praying** before the God of heaven.
 
 .. _participle_active-verbal-MV:
-
-Functions as a :ref:`finite<verb-finite>` main verb
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-When functioning as a main verb, the participle is governed by the context
-and has the potential to be translated as past time, present time,
-future time, or even without a specified timeframe. A verbal participle
-can express continuous, imminent, habitual, or even stative action as
-determined by the context.
-
-.. note:: The subject of a verbal participle usually
-          precedes the participle, in contrast to the normal conventions of
-          :ref:`word order<word_order>`.
+.. include:: participle_active-verbal-MV.rst
 
 .. csv-table:: Example: 1SA 3:8 –– expressing frequentive action
 
@@ -126,13 +108,7 @@ determined by the context.
   "See, I **am about to do** something in Israel"
 
 .. _participle_active-adjectival:
-
-Functions as an :ref:`adjective<adjective>`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-An adjectival participle immediately follows the noun it describes, and matches that noun in gender, number, and :ref:`definiteness<definiteness>`.
-An adjectival participle can either function as an adjective by itself or introduce an entire clause
-that functions as an adjective (either :ref:`attributive<adjective-attributive>` or :ref:`predicative<adjective-predicative>`).
+.. include:: includes/participle-adjectival.rst
 
 .. csv-table:: Example: DEU 4:24 –– a participle functioning by itself as an adjective
 
@@ -152,14 +128,7 @@ that functions as an adjective (either :ref:`attributive<adjective-attributive>`
      kind"
 
 .. _participle_active-nominal:
-
-Functions as a :ref:`noun<noun>`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-A nominal participle often takes the :ref:`definite article<particle_definite_article>` (but not always),   
-and can either function as a noun by itself or introduce an entire clause that functions as a noun.
-A nominal participle will appear in the :ref:`construct<state_construct>` state either when it takes a :ref:`pronominal suffix<suffix_pronominal>`
-or when it is in a construct relationship with another noun in the :ref:`absolute<state_absolute>` state.
+.. include:: includes/participle-nominal.rst
 
 .. csv-table:: Example: GEN 1:30 –– a participle functioning by itself as a noun
 
