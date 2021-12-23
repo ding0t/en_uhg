@@ -9,10 +9,8 @@ Summary
 
 Article
 -------
-.. include:: includes/participle_article.rst
-
-Active participles express verbal action in :ref:`active voice<stem-voice-active>`, meaning that the person/thing described by the
-participle performs the action expressed by the participle itself.
+.. include:: includes/participle-article.rst
+.. include:: includes/participle_active-article.rst
 
 Form
 ----
