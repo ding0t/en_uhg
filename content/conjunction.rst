@@ -149,9 +149,9 @@ usually translated as "or" in English.
 ----
 .. include:: includes/ci_flexible.txt
 
-The word כִּי is the standard causal conjunction in Biblical Hebrew,
+The word כִּי is the standard :ref:`causal<conjunction-causal>` conjunction in Biblical Hebrew,
 and is usually translated as "for" in English.
-However, it is also commonly used as a conditional conjunction (usually translated, "if").
+However, it is also commonly used as a :ref:`conditional<conjunction-conditional>` conjunction (usually translated, "if").
 Often,כִּי is conditional when it occurs at the beginning of a sentence and
 causal when it occurs in the middle (or toward the end) of a sentence,
 but there are notable exceptions to this general rule.
@@ -160,10 +160,7 @@ but there are notable exceptions to this general rule.
 .. include:: includes/conjunction-causal.rst
 .. include:: includes/hebrew/conjunction-causal-hebrew.rst 
 
-expresses reason or result
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-This means to express either the reason for or the result of an action/event.
-In English, this kind of causal conjunction is usually translated as "for" or "because".
+.. include:: includes/causal-result.rst
 
 .. csv-table:: Example: GEN 3:14
 
@@ -176,10 +173,7 @@ In English, this kind of causal conjunction is usually translated as "for" or "b
   "Then Yahweh God said to the snake, ""**Because** you did this, I will
      curse you."""
 
-expresses purpose or goal
-^^^^^^^^^^^^^^^^^^^^^^^^^
-This means to express the purpose or intended outcome of an action/event.
-In English, this kind of causal conjunction is usually translated as "for" or “so that”.
+.. include:: includes/causal-purpose.rst
 
 .. csv-table:: Example: GEN 20:10
 
