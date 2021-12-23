@@ -149,27 +149,21 @@ usually translated as "or" in English.
 ----
 .. include:: includes/ci_flexible.txt
 
-The word כִּי is the standard causal conjunction in Biblical Hebrew, and
-is usually translated as "for" in English. However, it is also commonly
-used as a conditional conjunction (usually translated, "if"). Often,
-כִּי is conditional when it occurs at the beginning of a sentence and
+The word כִּי is the standard causal conjunction in Biblical Hebrew,
+and is usually translated as "for" in English.
+However, it is also commonly used as a conditional conjunction (usually translated, "if").
+Often,כִּי is conditional when it occurs at the beginning of a sentence and
 causal when it occurs in the middle (or toward the end) of a sentence,
 but there are notable exceptions to this general rule.
 
 .. _conjunction-causal:
-Causal
-~~~~~~
-This is the most common use of the word כִּי. However, sometimes it is
-extremely difficult to distinguish between a ``causal`` conjunction that
-expresses purpose and one that expresses result. When כִּי functions as
-a causal conjunction, it is often translated into English simply as
-"for", which can express either purpose or result.
+.. include:: includes/conjunction-causal.rst
+.. include:: includes/hebrew/conjunction-causal-hebrew.rst 
 
-expresses purpose
-^^^^^^^^^^^^^^^^^
-This means to express the purpose, reason, or cause for an action/event.
-In English, this kind of causal conjunction is usually translated as
-"for" or "because".
+expresses reason or result
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+This means to express either the reason for or the result of an action/event.
+In English, this kind of causal conjunction is usually translated as "for" or "because".
 
 .. csv-table:: Example: GEN 3:14
 
@@ -182,11 +176,10 @@ In English, this kind of causal conjunction is usually translated as
   "Then Yahweh God said to the snake, ""**Because** you did this, I will
      curse you."""
 
-expresses result
-^^^^^^^^^^^^^^^^
-This means to express the result or intended outcome of an action/event.
-In English, this kind of causal conjunction is usually translated as
-"for" or “so that”.
+expresses purpose or goal
+^^^^^^^^^^^^^^^^^^^^^^^^^
+This means to express the purpose or intended outcome of an action/event.
+In English, this kind of causal conjunction is usually translated as "for" or “so that”.
 
 .. csv-table:: Example: GEN 20:10
 
