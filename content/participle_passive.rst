@@ -1,26 +1,16 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/participle_passive.rst
-
 .. _participle_passive:
-
 Participle Passive
 ==================
 
 Summary
 -------
-
-A passive participle is a non-finite verbal form with passive or reflexive voice that can function
-as a verb (or verbal complement), an adjective, or a noun. In Biblical Hebrew, passive participles most often function
-as either an :ref:`attributive<adjective-attributive>` adjective or a :ref:`predicative<adjective-predicative>` adjective.
+.. include:: includes/participle_passive-summary.rst
 
 Article
 -------
-
-.. include:: includes/participle_article.txt
-
-Passive participles express verbal action in either :ref:`passive voice<stem-voice-passive>` or
-:ref:`reflexive voice<stem-voice-reflexive>`.  Passive voice means that the person/thing described by the
-participle receives the action expressed by the participle itself.  Reflexive voice means that the person/thing described by
-the participle both performs and receives the action expressed by the participle itself.
+.. include:: includes/participle_article.rst
+.. include:: includes/participle_passive-article.rst
 
 .. note:: Only the :ref:`Qal<stem_qal>` stem
           has a distinct passive form for the participle; in all other cases, the
@@ -77,24 +67,10 @@ Form
 
 Function
 --------
-
-A passive/reflexive participle is often used as an independent
-grammatical entity, although it can introduce entire clauses similar to the :ref:`active<participle_active>` participle.
-Passive participles are generally more limited in meaning than active participles. 
-Passive participles are governed either by the main verb of a sentence or by the
-context; thus, they can express action in past time, present time,
-future time, or without any specified timeframe.
-
+.. include:: includes/participle_passive-function.rst
 .. _participle_passive-adjectival:
-
-Functions as an :ref:`adjective<adjective>`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-This is the most common use of the passive participle in Biblical Hebrew.
-An adjectival passive participle can function as either an :ref:`attributive<adjective-attributive>` adjective 
-or a :ref:`predicative<adjective-predicative>` adjective.  The context must determine whether a passive participle
-is functioning as a predicative adjective or as a main verb, because both appear the
-same in many instances (compare EXO 5:16 and 1SA 19:11).
+.. include:: includes/participle-adjectival.rst
+.. include:: includes/participle_passive-adjectival.rst
 
 The following example shows a passive participle functioning as an attributive adjective.
 
@@ -126,15 +102,16 @@ The following example shows passive participles introducing an entire clause tha
      **and despised** by the people."
 
 .. _participle_passive-verbal:
+.. note:: The subject of a verbal participle usually
+          precedes the participle, in contrast to the normal conventions of Hebrew
+          :ref:`word order<word_order>`.
 
 .. _participle_passive-verbal-MV:
+.. include:: includes/participle-verbal-MV.rst
+.. include:: includes/participle_passive-verbal-MV.rst
 
-Functions as a :ref:`finite<verb-finite>` main verb
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-The context must determine whether a passive participle is functioning as a main verb or as a predicative adjective,
-because both appear the same in many instances (compare 1SA 19:11 and EXO 5:16). In the following example, the participle
-is in the first position, which is the normal :ref:`word order<word_order>` for finite verbs but not for participles.
+In the following example, the participle is in the first position,
+which is the normal Hebrew :ref:`word order<word_order>` for finite verbs but not for participles.
 
 .. csv-table:: Example: ISA 17:2
 
@@ -151,13 +128,7 @@ is in the first position, which is the normal :ref:`word order<word_order>` for 
   tomorrow you **will be killed**
 
 .. _participle_passive-verbal-VC:
-
-Functions as a :ref:`non-finite<verb-non-finite>` verbal complement
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. note:: The subject of a verbal participle usually
-          precedes the participle, in contrast to the normal conventions of Hebrew
-          :ref:`word order<word_order>`.
+.. include:: includes/participle-verbal-VC.rst
 
 .. csv-table:: Example: GEN 38:25
 
@@ -167,9 +138,7 @@ Functions as a :ref:`non-finite<verb-non-finite>` verbal complement
   "When she **was brought out**, she sent to her father-in-law a message"
 
 .. _participle_passive-nominal:
-
-Functions as a :ref:`noun<noun>`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: includes/participle-nominal.rst
 
 .. csv-table:: Example: JOS 8:34
 

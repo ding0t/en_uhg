@@ -1,0 +1,1 @@
+The context must determine whether a passive participle is functioning as a main verb or as a predicative adjective, because both appear the same in many instances.
