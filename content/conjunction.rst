@@ -409,19 +409,12 @@ usually translated as "so that...not" (or similar phrasing) in English.
 רַק
 ----
 .. _conjunction-restrictive:
-A ``restrictive`` conjunction sets apart a clause or phrase as unique within its context. 
-Sometimes this restrictive function emphasizes a particular item as the most important or most prominent;
-in these cases, the conjunction is similar in meaning to an :ref:`affirmative<conjunction-affirmative>` conjunction.
-At other times, however, this restrictive function introduces a particular limitation to something previously expressed; in
-these cases, this conjunction is similar in meaning to a :ref:`concessive<conjunction-concessive>` conjunction.
-
-The word רַק is the standard *restrictive* conjunction in Biblical Hebrew.  
+.. include:: includes/conjunction-restrictive.rst
+.. include:: includes/hebrew/conjunction-restrictive-hebrew.rst 
 
 .. _conjunction-compound:
-
 Compound conjunctions
 ---------------------
-
 .. note:: Sometimes multiple conjunctions or particles appear
           together but do NOT form a compound conjunction; in such cases, each
           word retains its individual range of meanings. These instances must be
@@ -429,10 +422,8 @@ Compound conjunctions
           lexicon for the exact meaning of any specific occurrence.
 
 .. _conjunction-concessive:
-
 כִּי אִם
 ~~~~~~~~
-
 Sometimes the words כִּי and אִם are paired together to form a compound conjunction that functions most often as a strong contrastive
 or a strong *concessive* ("except"). In English, it is usually translated as "but",
 "but if", or "except". It is recommended to always consult a dictionary
