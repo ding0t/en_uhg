@@ -1,0 +1,1 @@
+This is also a very common use of the word כִּי in Biblical Hebrew.
