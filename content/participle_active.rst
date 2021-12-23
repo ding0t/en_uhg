@@ -1,20 +1,14 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/participle_active.rst
-
 .. _participle_active:
-
 Participle Active
 =================
 
 Summary
 -------
-
-An active participle is a non-finite verbal form with active voice 
-that can function as a verb (either a main verb or a verbal complement), an adjective, or a noun.
-When used verbally, an active participle most often expresses continuous or imminent action.
+.. include:: includes/participle_active-summary.rst
 
 Article
 -------
-
 .. include:: includes/participle_article.rst
 
 Active participles express verbal action in :ref:`active voice<stem-voice-active>`, meaning that the person/thing described by the
@@ -52,23 +46,13 @@ Form
 
 Function
 --------
-
-In Biblical Hebrew, it is helpful to classify participles according to
-their function in the sentence as a whole: as a :ref:`verb<verb>` (or verbal complement); 
-as an :ref:`adjective<adjective>`; or as a :ref:`noun<noun>`. 
-Participles can function independently as their own grammatical entity, but they often
-introduce entire clauses that function either as adjectives or nouns.
-When used verbally, the active participle is closely related in meaning to an :ref:`imperfect<verb_imperfect>` verb. 
-They are both often used to describe continuous or repeating action and can function as either a
-:ref:`non-finite<verb-non-finite>` verbal complement or a :ref:`finite<verb-finite>` main verb.
+.. include:: includes/participle_active-function.rst
+.. include:: includes/participle_active-function-heb-aram.rst
 
 .. _participle_active-verbal:
-
 .. _participle_active-verbal-VC:
-
 Functions as a :ref:`non-finite<verb-non-finite>` verbal complement
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 When functioning as a verbal complement, the participle is governed by
 the main verb of the sentence and has potential to be translated as past
 time, present time, or future time. A verbal participle can express
