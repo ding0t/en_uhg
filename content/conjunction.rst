@@ -185,6 +185,7 @@ but there are notable exceptions to this general rule.
 
 .. _conjunction-conditional:
 .. include:: includes/conjunction-conditional.rst
+.. include:: includes/hebrew/conjunction-conditional-hebrew.rst
 
 .. _conditional-hypothetical:
 .. include:: includes/conditional-hypothetical.rst
@@ -201,7 +202,7 @@ but there are notable exceptions to this general rule.
      you, do not answer him."
 
 .. _conditional-actual:
-.. include:: includes/conditional-hypothetical.rst
+.. include:: includes/conditional-actual.rst
 
 .. csv-table:: Example: GEN 27:1
 
@@ -214,7 +215,7 @@ but there are notable exceptions to this general rule.
 Other uses
 ~~~~~~~~~~
 The word כִּי can also express other conjunctive meanings, often as an
-contrastive following a negated statement. If in doubt, it is
+:ref:`contrastive<conjunction-contrastive>` following a negated statement. If in doubt, it is
 recommended to always consult a dictionary or lexicon for the exact
 meaning of the word in any specific instance.
 
@@ -236,7 +237,6 @@ meaning of the word in any specific instance.
           always consult a dictionary or lexicon for the exact meaning of the word
           in any specific instance.
 
-.. _conjunction-conditional:
 Conditional
 ~~~~~~~~~~~
 The word אִם is the standard ``conditional`` conjunction in Biblical Hebrew.
@@ -266,14 +266,7 @@ an actual condition.
   **Though**\ \_stood Moses and-Samuel before-me
   **Even if** Moses or Samuel were standing in front of me
 
-expresses an actual condition
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-An actual condition expresses an action or event that has actually
-happened in reality, and is usually translated as "when" or "while" in
-English. Usually, this kind of condition indicates something that is
-happening concurrently with the main action/event being described, or
-something that has happened in the past in certain circumstances.
+.. include:: includes/conjunction-actual.rst
 
 .. csv-table:: Example: NUM 21:9
 
