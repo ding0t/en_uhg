@@ -1,0 +1,1 @@
+There are five categories of pronouns in both Biblical Hebrew and Biblical Aramaic.

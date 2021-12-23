@@ -1,19 +1,12 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/pronoun_demonstrative.rst
-
 .. _pronoun_demonstrative:
-
 Pronoun Demonstrative
 =====================
-
 Summary
 -------
-
-A demonstrative pronoun refers to a specific person(s) or thing(s) in particular. In English, the following words are
-demonstrative pronouns: "this", "that", "these", "those".
-
+.. include:: includes/pronoun_demonstrative-summary.rst
 Article
 -------
-
 In Biblical Hebrew, demonstrative :ref:`pronouns<pronoun>` can function either as :ref:`nouns<noun>` or
 :ref:`adjectives<adjective>`. Demonstrative pronouns can change form according to gender (:ref:`masculine<gender_masculine>`
 or :ref:`feminine<gender_feminine>`) and number (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`) but NOT
