@@ -160,6 +160,7 @@ but there are notable exceptions to this general rule.
 .. include:: includes/conjunction-causal.rst
 .. include:: includes/hebrew/conjunction-causal-hebrew.rst 
 
+.. _causal-result:
 .. include:: includes/causal-result.rst
 
 .. csv-table:: Example: GEN 3:14
@@ -172,7 +173,7 @@ but there are notable exceptions to this general rule.
      cursed you"
   "Then Yahweh God said to the snake, ""**Because** you did this, I will
      curse you."""
-
+.. _causal-purpose:
 .. include:: includes/causal-purpose.rst
 
 .. csv-table:: Example: GEN 20:10
@@ -182,12 +183,10 @@ but there are notable exceptions to this general rule.
   What did-you-see **so-that** you-did [dir.obj]\_the-thing the-this?
   What prompted you **to** do this thing?
 
-Conditional
-~~~~~~~~~~~
-This is also a very common use of the word כִּי in Biblical Hebrew. This
-conjunction can describe either a hypothetical condition or an actual
-condition, as determined by the context.
+.. _conjunction-conditional:
+.. include:: includes/conjunction-conditional.rst
 
+.. _conditional-hypothetical:
 .. include:: includes/conditional-hypothetical.rst
 
 .. csv-table:: Example: 2KI 4:29
@@ -201,6 +200,7 @@ condition, as determined by the context.
   "**If** you meet any man, do not greet him, and **if** anyone greets
      you, do not answer him."
 
+.. _conditional-actual:
 .. include:: includes/conditional-hypothetical.rst
 
 .. csv-table:: Example: GEN 27:1
