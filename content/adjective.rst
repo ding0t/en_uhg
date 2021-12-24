@@ -1,15 +1,11 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/adjective.rst
-
 .. _adjective:
-
 Adjective
 =========
-
 Summary
 -------
 .. include:: includes/adjective-summary.rst
 .. include:: includes/hebrew/adjective-summary-hebrew.rst
-
 Article
 -------
 In Bibical Hebrew, adjectives match the :ref:`noun<noun>` they describe in
@@ -26,8 +22,7 @@ the accompanying adjective may match the implied number rather than the apparent
 
 Form
 ----
-The forms of the adjective closely resemble the forms of the
-:ref:`common noun<noun_common>`.
+The forms of the adjective closely resemble the forms of the :ref:`common noun<noun_common>`.
 
 Paradigm
 ~~~~~~~~
