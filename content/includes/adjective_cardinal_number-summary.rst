@@ -1,0 +1,2 @@
+Cardinal numbers are used to describe quantity or to
+express the name of a number itself ("one", "two", "three", etc.).

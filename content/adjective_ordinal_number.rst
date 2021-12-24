@@ -1,31 +1,13 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/adjective_ordinal_number.rst
-
 .. _adjective_ordinal_number:
-
 Adjective Ordinal Number
 ========================
-
 Summary
 -------
-
-In Biblical Hebrew, ordinal numbers are used to express a rank or order
-of items in a series (first, second, third, etc.) or to express a part
-of a whole (a third, a fourth, a fifth, etc.).
-
+.. include:: includes/adjective_ordinal_number-summary.rst
 Article
 -------
-
-Biblical Hebrew contains two sets of numbers: :ref:`cardinal numbers<adjective_cardinal_number>`
-and ordinal numbers. Ordinal numbers describe either a numeric
-rank/order or a portion of a whole. "First" through "tenth" have unique
-ordinal forms, but the cardinal forms are used from "eleventh" and
-higher. Ordinal numbers function as :ref:`attributive adjectives<adjective-attributive>`,
-but they may not always have the same grammatical form (gender, number,
-:ref:`definiteness<definiteness>`) as the noun they describe.
-
-.. note:: Sometimes a cardinal form is used, but an ordinal meaning is
-          clearly indicated from the context (see examples below).
-
+.. include:: includes/adjective_ordinal_number-article.rst
 "First" through "Tenth"
 -----------------------
 

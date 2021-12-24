@@ -1,0 +1,1 @@
+The name(s) of spoken language(s) are considered gentilic adjectives.

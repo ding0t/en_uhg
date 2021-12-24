@@ -1,26 +1,13 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/adjective_gentilic.rst
-
 .. _adjective_gentilic:
-
 Adjective Gentilic
 ==================
-
 Summary
 -------
-
-In Biblical Hebrew, the name(s) of spoken language(s) are considered gentilic adjectives.  
-
+.. include:: includes/adjective_gentilic-summary.rst  
 Article
 -------
-
-The names of spoken languages are the only terms that are considered by this grammar as proper "gentilic adjectives".
-However, Hebrew scholars disagree concerning which terms should be called gentilic nouns or gentilic adjectives.  This is
-because most gentilics in Biblical Hebrew can legitimately be classified as either nouns or adjectives.  
-
-.. note:: Some :ref:`gentilic nouns<noun_gentilic>` that follow nouns in the
-  absolute state function like :ref:`attributive adjectives<adjective-attributive>`.
-  Some scholars call these gentilic adjectives as well (for example, "Ruth the Moabitess").
-
+.. include:: includes/adjective_gentilic-article.rst
 Examples
 --------
 

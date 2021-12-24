@@ -1,0 +1,3 @@
+Ordinal numbers are used to express a rank or order
+of items in a series (first, second, third, etc.) or to express a part
+of a whole (a third, a fourth, a fifth, etc.).
