@@ -1,18 +1,11 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/pronoun_relative.rst
-
 .. _pronoun_relative:
-
 Pronoun Relative
 ================
-
 Summary
 -------
-
-Relative pronouns are pronouns which function as a relative particle, that is, to introduce a phrase or clause that describes a noun.
-
 Article
 -------
-
 Either term is correct.  In English, the relative pronouns include: “who", "what", “that", “which", "when", or "where".
 In most cases, Biblical Hebrew simply uses either the :ref:`relative particle<particle_relative>` אֲשֶׁר or the prefix -שֶׁ to
 introduce a relative clause.  However, in rare instances Biblical Hebrew uses certain other pronouns to serve this same function.

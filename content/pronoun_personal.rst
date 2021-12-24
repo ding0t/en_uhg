@@ -1,19 +1,12 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/pronoun_personal.rst
-
 .. _pronoun_personal:
-
 Pronoun Personal
 ================
-
 Summary
 -------
-
-In Biblical Hebrew, a personal pronoun is a word that indirectly refers to a particular person(s) or thing(s).  In English, the
-following words are personal pronouns: "I", "we", "you", "he", "she", "they", "them".  
-
+.. include:: includes/pronoun_personal-summary.rst  
 Article
 -------
-
 In Biblical Hebrew, personal pronouns change form according to gender (:ref:`masculine<gender_masculine>`, number
 (:ref:`feminine<gender_feminine>`, and person (:ref:`first<person_first>`, :ref:`second<person_second>`, or
 :ref:`third<person_third>`.  Grammatically they are very similar to :ref:`pronominal suffixes<suffix_pronominal>`, but they

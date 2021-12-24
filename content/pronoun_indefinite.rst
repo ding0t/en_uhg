@@ -1,20 +1,12 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/pronoun_indefinite.rst
-
 .. _pronoun_indefinite:
-
 Pronoun Indefinite
 ==================
-
 Summary
 -------
-
-An indefinite pronoun is a pronoun that refers to a person(s) or thing(s) in general but not to any specific person or thing in
-particular.  In English, they are usually translated as "whoever” (in reference to persons) or "whatever" (when referring to
-things).
-
+.. include:: includes/pronoun_indefinite-summary.rst
 Article
 -------
-
 Biblical Hebrew contains two indefinite pronouns, the pronoun מִי (in reference to persons) and the pronoun מָה
 (in reference to things). These pronouns can also as :ref:`interrogative pronoun<pronoun_interrogative>`, especially when they
 appear at the beginning of a clause/sentence. However, this is not a universal rule; the specific use of these pronouns must
@@ -23,7 +15,6 @@ always be determined from the context. Indefinite pronouns function in a sentenc
 
 Form
 ----
-
 Indefinite pronouns do not change their form based on number, gender, or person. However, the vowels can change depending on the
 vocalization of the word immediately following the pronoun.
 
