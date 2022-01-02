@@ -7,14 +7,10 @@ Gender Feminine
 
 Summary
 -------
-
-Nouns, adjectives, finite verbs, participles, pronouns, pronominal suffixes, and some particles change their form is according to
-their grammatical gender, either masculine or feminine. The feminine gender is often marked by either a ־ָה (qamets-he) or וֹת
-(holem-taw) suffix, but various other prefixes and suffixes can also indicate feminine gender.
-
+.. include:: includes/gender_feminine-summary.rst
+.. include:: includes/hebrew/gender_feminine-summary-hebrew.rst
 Article
 -------
-
 In Biblical Hebrew, :ref:`nouns<noun>` are classified according to gender, either :ref:`masculine<gender_masculine>`, feminine, or
 sometimes :ref:`both<gender_both>`. Grammatical modifiers (such as :ref:`adjectives<adjective>`, :ref:`active<participle_active>`
 and :ref:`passive<participle_passive>` participles, :ref:`pronouns<pronoun>`, :ref:`pronominal suffixes<suffix_pronominal>`)

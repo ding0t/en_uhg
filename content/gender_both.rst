@@ -1,38 +1,17 @@
 :github_url: https://git.door43.org/unfoldingWord/en_uhg/src/branch/master/content/gender_both.rst
-
 .. _gender_both:
-
 Gender Both
 ===========
-
 Summary
 -------
-
-A word is classified as "both gender" if it contains both a masculine
-and a feminine form, or if a single form is masculine in
-some contexts and feminine in other contexts.
-
+.. include:: includes/gender_both-summary.rst
 Article
 -------
-
-Some words appear in both a
-:ref:`masculine<gender_masculine>`
-and a
-:ref:`feminine<gender_feminine>`
-form. Other words have only one form, but that single form can be either
-grammatically-masculine or grammatically-feminine. These kinds of words
-are classified as "gender both", and they are usually nouns or
-adjectives. Sometimes the context can determine the gender of a
-particular instance of a "gender both" noun (see examples below for
-שֶׁמֶשׁ), but sometimes the context is inconclusive (see example below for
-נֹגַהּ).
-
+.. include:: includes/gender_both-article.rst
 Examples
 --------
-
 A single word with both masculine and feminine forms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 In the following example, the noun אוֹר (light) is masculine in form and
 takes grammatically-masculine verbs (יְהִ֣י and וַֽיְהִי).
 
@@ -55,7 +34,6 @@ takes a grammatically-feminine verb (הָֽיְתָ֥ה).
 
 A single form that can be either masculine or feminine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 In the following example, the noun שֶׁמֶשׁ (sun) is grammatically
 feminine.
 

@@ -1,0 +1,2 @@
+A word is classified as "common gender" if it can refer to either a
+grammatically-masculine or a grammatically-feminine person/thing.
