@@ -32,11 +32,11 @@ dublin_core:
     -
       identifier: 'uhg'
       language: 'en'
-      version: '1'
+      version: '2'
   subject: 'Hebrew Grammar'
   title: 'unfoldingWord® Hebrew Grammar'
   type: 'man'
-  version: '1'
+  version: '2'
 
 checking:
   checking_entity:
