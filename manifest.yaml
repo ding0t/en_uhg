@@ -25,7 +25,8 @@ dublin_core:
   modified: '2019-04-17'
   publisher: 'unfoldingWord'
   relation:
-    - 'en/uhb'
+    - 'hbo/uhb?v=2.1.23'
+    - 'en/uag?v=1'
   rights: 'CC BY-SA 4.0'
   source:
     -
