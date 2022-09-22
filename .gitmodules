@@ -2,3 +2,7 @@
 	path = content/en_uag
 	url = https://git.door43.org/unfoldingword/en_uag.git
 	branch = master
+[submodule "content/en_ugg"]
+	path = content/en_ugg
+	url = git@git.door43.org:unfoldingWord/en_ugg.git
+	branch = master
