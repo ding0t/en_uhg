@@ -19,11 +19,9 @@ these cases, an accompanying adjective will match the gender of the noun
 itself rather than the apparent form. Similarly, for nouns with either :ref:`collective singular<number_singular-collective>`
 (as in עַם, meaning "people") or :ref:`majestic plural<number_plural-majestic>` (as in אֱלֹהִים, meaning "God"),
 the accompanying adjective may match the implied number rather than the apparent form.
-
 Form
 ----
-The forms of the adjective closely resemble the forms of the :ref:`common noun<noun_common>`.
-
+.. include:: includes/adjective-form.rst
 Paradigm
 ~~~~~~~~
 
@@ -46,13 +44,11 @@ Paradigm
 
 Function
 --------
-
 Describes a noun
 ~~~~~~~~~~~~~~~~
 .. _adjective-attributive:
 .. include:: includes/adjective-attributive.rst
 .. include:: includes/notes/adjective-number.rst
-
 .. csv-table:: Example: 1SA 18:17
 
   בִתִּ֨י הַגְּדוֹלָ֤ה
@@ -70,7 +66,6 @@ Describes a noun
 .. _adjective-predicative:
 .. include:: includes/adjective-predicative.rst
 .. include:: includes/notes/adjective-congruence.rst
-
 .. csv-table:: Example: 2SA 14:20
 
   וַאדֹנִ֣י חָכָ֗ם
@@ -87,7 +82,6 @@ Describes a noun
 
 .. _adjective-nominal:
 .. include:: includes/adjective-nominal.rst
-
 .. csv-table:: Example: PSA 3:2
 
   רַ֝בִּ֗ים קָמִ֥ים עָלָֽי
@@ -104,7 +98,6 @@ Describes a noun
 
 .. _adjective-adverbial:
 .. include:: includes/adjective-adverbial.rst
-
 .. csv-table:: Example: JOS 21:10
 
   כִּ֥י לָהֶ֛ם הָיָ֥ה הַגּוֹרָ֖ל רִיאשֹׁנָֽה
@@ -114,11 +107,9 @@ Describes a noun
 
 Other uses of adjectives
 ~~~~~~~~~~~~~~~~~~~~~~~~
-
 .. _adjective-comparative:
 .. include:: includes/adjective-comparative.rst
 .. include:: includes/hebrew/adjective-comparative-hebrew.rst
-
 .. csv-table:: Example: JDG 14:18
 
   מַה־\ **מָּת֣וֹק** מִדְּבַ֔שׁ וּמֶ֥ה **עַ֖ז** מֵאֲרִ֑י
@@ -136,7 +127,6 @@ Other uses of adjectives
 .. _adjective-intensive:
 .. include:: includes/adjective-intensive.rst
 .. include:: includes/hebrew/adjective-intensive-hebrew.rst
-
 .. csv-table:: Example: GEN 1:31
 
   וְהִנֵּה־ט֖וֹב מְאֹ֑ד
@@ -154,7 +144,6 @@ Other uses of adjectives
 .. _adjective-superlative:
 .. include:: includes/adjective-superlative.rst
 .. include:: includes/hebrew/adjective-superlative-hebrew.rst
-
 .. csv-table:: Example: 1SA 16:11 –– adjective with the :ref:`definite article<particle_definite_article>`
 
   עֹ֚וד שָׁאַ֣ר הַקָּטָ֔ן

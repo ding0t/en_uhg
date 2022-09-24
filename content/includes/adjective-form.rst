@@ -1,0 +1,1 @@
+The forms of the adjective closely resemble the forms of the :ref:`common noun<noun_common>`.
