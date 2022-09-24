@@ -2,10 +2,12 @@
 .. _adjective:
 Adjective
 =========
+
 Summary
 -------
 .. include:: includes/adjective-summary.rst
 .. include:: includes/hebrew/adjective-summary-hebrew.rst
+
 Article
 -------
 In Bibical Hebrew, adjectives match the :ref:`noun<noun>` they describe in
@@ -19,9 +21,11 @@ these cases, an accompanying adjective will match the gender of the noun
 itself rather than the apparent form. Similarly, for nouns with either :ref:`collective singular<number_singular-collective>`
 (as in עַם, meaning "people") or :ref:`majestic plural<number_plural-majestic>` (as in אֱלֹהִים, meaning "God"),
 the accompanying adjective may match the implied number rather than the apparent form.
+
 Form
 ----
 .. include:: includes/adjective-form.rst
+
 Paradigm
 ~~~~~~~~
 
@@ -44,6 +48,7 @@ Paradigm
 
 Function
 --------
+
 Describes a noun
 ~~~~~~~~~~~~~~~~
 .. _adjective-attributive:
