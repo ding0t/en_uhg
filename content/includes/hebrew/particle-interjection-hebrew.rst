@@ -1,0 +1,1 @@
+There is a whole family of interjections in Biblical Hebrew, and none of them occur very frequently.

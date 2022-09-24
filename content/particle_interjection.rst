@@ -7,17 +7,12 @@ Particle Interjection
 
 Summary
 -------
-
-An interjection is a word that expresses strong emotion.
+.. include:: includes/particle-interjection-summary.rst
 
 Article
 -------
-
-Interjections usually appear at the beginning of a sentence or clause and are grammatically disconnectedfrom the rest of the
-sentence. As in many other languages, interjections in Biblical Hebrew are most likely "natural sounds", i.e. vocal gestures or
-sounds that a person utters when experiencing certain emotions. Interjections can be used to express both positive and negative
-emotions; but in the Hebrew Bible, it is usually some kind of sadness. There is a whole family of interjections in Biblical
-Hebrew, and none of them occur very frequently.
+.. include:: includes/particle-interjection-article.rst
+.. include:: includes/hebrew/particle-interjection-hebrew.rst
 
 הָהּ or אֲהָהּ
 --------------
