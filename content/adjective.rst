@@ -53,6 +53,7 @@ Describes a noun
 ~~~~~~~~~~~~~~~~
 .. _adjective-attributive:
 .. include:: includes/adjective-attributive.rst
+.. include:: includes/adjective-attributive-hebrew-aramaic.rst
 .. include:: includes/notes/adjective-number.rst
 .. csv-table:: Example: 1SA 18:17
 
