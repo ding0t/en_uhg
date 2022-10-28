@@ -405,7 +405,6 @@ usually translated as "so that...not" (or similar phrasing) in English.
   Be careful **that** you speak to Jacob **neither** good **nor** bad.
 
 
-
 רַק
 ----
 .. _conjunction-restrictive:
@@ -418,6 +417,8 @@ Compound conjunctions
 .. include:: includes/notes/conjunction-compound.rst
 
 .. _conjunction-concessive:
+.. include:: includes/conjunction-concessive.rst
+
 כִּי אִם
 ~~~~~~~~
 Sometimes the words כִּי and אִם are paired together to form a compound conjunction that functions most often as a strong contrastive

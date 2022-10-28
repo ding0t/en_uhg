@@ -1,0 +1,1 @@
+A ``concessive`` conjunction expresses an exception or disclaimer to what has been stated immediately previous.

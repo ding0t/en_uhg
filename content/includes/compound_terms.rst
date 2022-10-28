@@ -1,0 +1,2 @@
+These compounds should not be considered merely as the sum of the component terms.
+Rather, they should be considered as a single grammatical entity with its own range of meanings which may or may not be different than the individual component terms.
