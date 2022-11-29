@@ -7,15 +7,11 @@ Verb
 
 Summary
 -------
-
-.. include:: includes/verb_summary.txt
+.. include:: includes/verb-summary.rst
 
 Article
 -------
-
-A verb is a word in a sentence that describes either an action by the
-subject of a sentence, or the subject itself. Therefore, the verb is
-often the most important word in understanding a sentence or a clause.
+.. include:: includes/verb-article.rst
 
 Form
 ----
