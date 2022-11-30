@@ -1,0 +1,1 @@
+``Finite verbs`` are verbs that have a subject and do not require any verbal complement to form a complete sentence. 

@@ -61,9 +61,9 @@ attached to a verb can function as its object.
 
 Finite verbs
 ~~~~~~~~~~~~
+.. include:: includes/verb-finite.rst
 
-Finite verbs are verbs that have a subject and do not require any verbal
-complement to form a complete sentence. Their form shows tense as well as person and number. 
+Their form shows tense as well as person and number. 
 Biblical Hebrew has 7 finite verb forms: :ref:`Perfect<verb_perfect>`, :ref:`Imperfect<verb_imperfect>`,
 :ref:`Sequential Perfect<verb_sequential_perfect>`, :ref:`Sequential Imperfect<verb_sequential_imperfect>`, 
 :ref:`Imperative<verb_imperative>`, :ref:`Jussive<verb_jussive>`, and :ref:`Cohortative<verb_cohortative>`.
@@ -72,9 +72,9 @@ Biblical Hebrew has 7 finite verb forms: :ref:`Perfect<verb_perfect>`, :ref:`Imp
 
 Non-finite verbs
 ~~~~~~~~~~~~~~~~
+.. include:: includes/verb-non-finite.rst
 
-Properly speaking, non-finite verbs are verbal complements that require
-a finite verb to form a complete sentence. The non-finite verb forms in Biblical Hebrew include
+The non-finite verb forms in Biblical Hebrew include
 the :ref:`infinitive_absolute`, the :ref:`infinitive_construct`, and the participles (both
 :ref:`active <participle_active>` and :ref:`passive <participle_passive>`).
 Non-finite verbs can sometimes describe an action or an event in such a
