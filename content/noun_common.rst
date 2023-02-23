@@ -32,11 +32,11 @@ Paradigm
   masculine singular absolute,סוּס,sus,stallion
   masculine singular construct,סוּס,sus,stallion of
   feminine singular absolute,סוּסָה,susah,mare
-  feminine singular contruct,סוּסַת,susat,mare of
+  feminine singular construct,סוּסַת,susat,mare of
   masculine plural absolute,סוּסִים,susim,stallions
   masculine plural construct,סוּסֵי,suse,stallions of
   feminine plural absolute,סוּסוֹת,susoth,mares
-  feminine plural contruct,סוּסוֹת,susoth,mares of
+  feminine plural construct,סוּסוֹת,susoth,mares of
 
 Examples
 --------
