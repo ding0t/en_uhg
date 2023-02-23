@@ -69,7 +69,7 @@ Feminine :ref:`plural<number_plural>` terms usually end in וֹת- (holem-taw), 
 
   Parsing,Hebrew,Transliteration,Gloss
   second person feminine singular,אֹתָךְ,'othakh,you
-  second person feminine plural,אֹתְכֶֶן,'thekhem,you
+  second person feminine plural,אֹתְכֶֶן,'othekhem,you
   third person feminine singular,אֹתָהּ,'othah,her / it
   third person feminine plural,אֶתְהֶן / אֹתָן,'ethhen / 'othan,them
 
