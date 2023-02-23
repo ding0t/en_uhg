@@ -20,7 +20,7 @@ in Biblical Hebrew.
 
 .. note:: Some nouns appear to be masculine but are actually feminine, even some common
           nouns such as אֵם (mother) and אֶרֶץ (earth). These nouns are feminine even though they do NOT take feminine
-          endings. A dictionary orlexicon will indicate the proper gender for each word.
+          endings. A dictionary or lexicon will indicate the proper gender for each word.
 
 Form
 ----
@@ -28,7 +28,7 @@ Form
 Masculine :ref:`singular<number_singular>` :ref:`nouns<noun>` and :ref:`adjectives<adjective>` have no unique ending;
 they are the standard dictionary form. Masculine :ref:`dual<number_dual>` terms end in ־ַיִם (pataq-yod-hireq-final mem),
 as in אַפַּיִם (nostrils). Masculine :ref:`plural<number_plural>` terms usually end in ־ִים (hireq-yod-final mem),
-as in אֲנָשִׁים (men). There is a whole family of :ref:`verbal<verb>` prefixes and suffixes that indicate feminine gender for
+as in אֲנָשִׁים (men). There is a whole family of :ref:`verbal<verb>` prefixes and suffixes that indicate masculine gender for
 :ref:`finite<verb-finite>` verbs.
 
 .. csv-table:: Masculine Noun Forms
