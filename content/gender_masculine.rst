@@ -50,7 +50,7 @@ as in אֲנָשִׁים (men). There is a whole family of :ref:`verbal<verb>` pr
 
   Parsing,Hebrew,Transliteration,Gloss
   second person masculine singular,תִּקְטֹל,tiqtol,you will kill
-  second person masculine plural,תִּקְטְל,tiqtelu,you will kill
+  second person masculine plural,תִּקְטְלוּ,tiqtelu,you will kill
   third person masculine singular,יִקְטֹל,yiqtol,he will kill
   third person masculine plural,יִקְטְלוּ,yiqtelu,they will kill
 
