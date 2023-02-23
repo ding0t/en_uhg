@@ -205,7 +205,7 @@ This is an extremely rare use of the Infinitive Absolute.
   צֹ֔אן **אָכֹ֥ל** בָּשָׂ֖ר **וְשָׁת֣וֹת** יָ֑יִן"
   "wehinneh sason wesimhah **harog** baqar **weshahot** tson **'akhol**
   basar **weshathoth** yayin"
-  "and-behold joy and-gladness **killing** flesh **and-slaughtering** sheep
+  "and-behold joy and-gladness **killing** cattle **and-slaughtering** sheep
   **eating** flesh **and-drinking** wine"
   "But look, instead, celebration and gladness, **killing** cattle **and
   slaughtering** sheep, **eating** meat **and drinking** wine"
