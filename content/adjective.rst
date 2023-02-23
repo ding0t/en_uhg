@@ -40,7 +40,7 @@ Paradigm
   feminine singular construct,טוֹבַת,tovath,good
   feminine singular determined,הַטּוֹבָה,hattovah,the good
   masculine plural absolute,טוֹבִים,tovim,good
-  masculine plural contruct,טוֹבֵי,tove,good
+  masculine plural construct,טוֹבֵי,tove,good
   masculine plural determined,הַטּוֹבִים,hattovim,the good
   feminine plural absolute,טוֹבוֹת,tovoth,good
   feminine plural construct,טוֹבוֹת,tovoth,good
