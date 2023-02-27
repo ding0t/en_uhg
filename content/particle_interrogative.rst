@@ -197,13 +197,6 @@ These are particles of manner and can be translated as "how?", "why?", or even "
 
 .. csv-table:: Example: PSA 137:4
 
-  אֵ֗יךְ נָשִׁ֥יר
-  **'ekh** nashir
-  **How** will-we-sing
-  **How** could we sing?
-
-.. csv-table:: Example: PSA 137:4
-
   אֵ֗יךְ נָשִׁ֥יר
   **'ekh** nashir
   **How** can-we-sing
