@@ -82,7 +82,7 @@ indicates that the subject of the verb is the writer/speaker of the verb.
 :ref:`Personal pronoun<pronoun_personal>` marked for first person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A first person indpendent personal pronoun refers either to the writer/speaker (for singular) or to an entire group to which
+A first person independent personal pronoun refers either to the writer/speaker (for singular) or to an entire group to which
 the writer/speaker belongs (for plural).
 
 .. csv-table:: Example: EXO 6:2
