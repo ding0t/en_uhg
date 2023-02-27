@@ -74,7 +74,7 @@ patterns as the :ref:`definite article<particle_definite_article>`.
 
 .. csv-table:: Example: ECC 1:9
 
-  מַה־\ **שֶּֽׁהָיָה֙** ה֣וּא שֶׁיִּהְיֶ֔ה
+  **מַה־\ **שֶּֽׁהָיָה֙** ה֣וּא **שֶׁיִּהְיֶ֔ה
   mah-\ **shehayah** hu **sheyyihyeh**
   What\_\ **that-has-been** that **which-will-be**
   **Whatever has been** is **what will be**
