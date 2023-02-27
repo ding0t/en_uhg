@@ -55,7 +55,7 @@ Function
 .. _participle_active-verbal-VC:
 .. include:: participle_active-verbal-VC.rst
 
-.. csv-table:: Example: HOS 2:10 –– expressing stative action
+.. csv-table:: Example: HAB 2:10 –– expressing stative action
 
   "יָעַ֥צְתָּ בֹּ֖שֶׁת לְבֵיתֶ֑ךָ קְצוֹת־עַמִּ֥ים רַבִּ֖ים **וְחוֹטֵ֥א**
      נַפְשֶֽׁךָ"
