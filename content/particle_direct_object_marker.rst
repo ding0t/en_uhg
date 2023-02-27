@@ -34,7 +34,7 @@ and/or a :ref:`pronominal suffix<suffix_pronominal>`.
 .. csv-table:: Example: GEN 1:1 –– marking individual nouns as direct objects
 
   בָּרָ֣א אֱלֹהִ֑ים **אֵ֥ת** הַשָּׁמַ֖יִם **וְאֵ֥ת** הָאָֽרֶץ׃
-  ara 'elohim **'eth** hashamayim **we'eth** ha'arets
+  bara 'elohim **'eth** hashamayim **we'eth** ha'arets
   he-created God **[dir.obj]** the-heavens **and-[dir.obj]** the-earth
   God created the heavens and the earth
 
