@@ -17,7 +17,7 @@ In English, the second person pronouns are "you" and "your," used for both singu
 are marked for second personal can change form according to both gender (:ref:`masculine<gender_masculine>` and
 :ref:`feminine<gender_feminine>`) and number (:ref:`singular<number_singular>` or :ref:`plural<number_plural>`).  In Biblical Hebrew, 
 :ref:`verbs<verb>`, :ref:`pronouns<pronoun_personal>`, and :ref:`pronominal suffixes<suffix_pronominal>` can all be marked
-for third person.
+for second person.
 
 Neither English nor Hebrew have a formal second person address. In many languages (including German, Spanish, and French),
 a speaker addresses God using an informal address. In some other languages, such as Dutch, a speaker addresses God using a
@@ -65,7 +65,7 @@ Paradigm
   second person masculine singular,אֹתְךָ,'othekha,you
   second person feminine singular,אֹתָךְ,'othakh,you
   second person masculine plural,אֹתְכֶֶם,'othekhem,you
-  second person feminine plural,אֹתְכֶֶן,'thekhem,you
+  second person feminine plural,אֹתְכֶֶן,'othekhen,you
 
 .. csv-table:: Second Person Pronominal Suffix Forms
 
@@ -85,17 +85,16 @@ Examples
 A :ref:`finite verb<verb-finite>` (and/or :ref:`verbal participle<participle_active-verbal>`) in second person form
 indicates that the subject of the verb is the person(s) being addressed by the writer/speaker.
 
-.. csv-table:: Example: JER 43:10
+.. csv-table:: Example: GEN 22:18
 
-  מִמַּ֛עַל לָאֲבָנִ֥ים הָאֵ֖לֶּה אֲשֶׁ֣ר טָמָ֑נְתִּי
-  mimma'al la'avanim ha'elleh 'asher **tamanti**
-  from-upwards-of to-the-stones the-these that **you-have-buried**.
-  over these stones that **you have buried**.
+  עֵ֕קֶב אֲשֶׁ֥ר שָׁמַ֖עְתָּ בְּ⁠קֹלִֽ⁠י
+  because that **you-have-obeyed** -on-voice-of-me.
+  because **you listened** to my voice.
 
 :ref:`Personal pronoun<pronoun_personal>` marked for second person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A second person indpendent personal pronoun refers either to the person being addressed by the writer/speaker (for singular)
+A second person independent personal pronoun refers either to the person being addressed by the writer/speaker (for singular)
 or to an entire group to which that person belongs (for plural).
 
 .. csv-table:: Example: JER 12:1
