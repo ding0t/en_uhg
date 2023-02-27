@@ -35,5 +35,5 @@ Examples
   
   "And-he-went-out son-of\_woman **Israelite** and-he son-of\_man
      **Egyptian**"
-  "Now it happened that the son of an Israelite woman, whose father was
-     an Egyptian, went"
+  "Now it happened that the son of an **Israelite** woman, whose father was
+     an **Egyptian**, went"
