@@ -60,7 +60,7 @@ and :ref:`pronominal suffixes<suffix_pronominal>`.
   second person feminine plural,קְטַלְתֶּן,qetalten,you killed
   common plural third person,קָטְלוּ,qatlu,they killed
   common plural first person,נִקְטֹל,niqtol,we will kill
-  second person masculine plural,תִּקְטְל,tiqtelu,you will kill
+  second person masculine plural,תִּקְטְלוּ,tiqtelu,you will kill
   second person feminine plural,תִּקְטֹלְנָה,tiqtolenah,you will kill
   third person masculine plural,יִקְטְלוּ,yiqtelu,they will kill
   third person feminine plural,תִּקְטֹלְנָה,tiqtolenah,they will kill
@@ -77,7 +77,7 @@ and :ref:`pronominal suffixes<suffix_pronominal>`.
 
   Parsing,Hebrew,Transliteration,Gloss
   second person masculine plural,אֹתְכֶֶם,'othekhem,you
-  second person feminine plural,אֹתְכֶֶן,'thekhem,you
+  second person feminine plural,אֹתְכֶֶן,'othekhen,you
   third person masculine plural,אֶתְהֶם / אֹתָם,'ethhem / 'otham,them
   third person feminine plural,אֶתְהֶן / אֹתָן,'ethhen / 'othan,them
 
