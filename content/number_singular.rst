@@ -145,7 +145,7 @@ singular. For example, the noun עוֹף֙ can mean "bird" or "birds".
 .. csv-table:: Example: GEN 1:21 –– common singular of עוֹף
 
   וְאֵ֨ת כָּל־ע֤וֹף **כָּנָף֙** לְמִינֵ֔הוּ
-  we'eth kol-'of **kanaf** leminehu
+  we'eth kol-**'of** kanaf leminehu
   and-[dir.obj] every\_winged **bird** after-its-kind.
   every kind of **bird** that has wings
 
