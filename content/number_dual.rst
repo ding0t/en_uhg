@@ -29,7 +29,7 @@ Both :ref:`masculine<gender_masculine>` and :ref:`feminine<gender_feminine>` ter
 
   Word,Hebrew,Transliteration,Gloss
   Masculine dual absolute,אָזְנַיִם,'aznayim,(both) ears
-  Masculine dual contruct,אָזְנֵי,'azney,(both) ears of
+  Masculine dual construct,אָזְנֵי,'azney,(both) ears of
   Female dual absolute,יָדַיִם,yadayim,(both) hands
   Feminine dual construct,יְדֵי,yede,(both) hands of
 
