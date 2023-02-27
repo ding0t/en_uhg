@@ -9,7 +9,7 @@ Summary
 
 Article
 -------
-.. include:: includes/participle_article.rst
+.. include:: includes/participle-article.rst
 .. include:: includes/participle_passive-article.rst
 
 .. note:: Only the :ref:`Qal<stem_qal>` stem
