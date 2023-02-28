@@ -121,7 +121,7 @@ Examples
 
   וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה
   **welimshol** bayyom uvallaylah
-  **and to rule** in the day and in the night
+  **and to rule** in the day and-in-the-night
   **to rule** over the day and over the night
 
 
