@@ -99,10 +99,10 @@ Types
 
   בְּזֵעַ֤ת אַפֶּ֙יךָ֙ תֹּ֣אכַל לֶ֔חֶם
   insert transliteration
-  **By**-sweat-of your-face you-will-eat break
+  **By**-sweat-of your-face you-will-eat bread
   **By** the sweat of your face you will eat bread
 
-.. csv-table:: GEN 4:1 –– with the independent preposition ?
+.. csv-table:: GEN 4:1 –– with the independent preposition אֵת
 
   וַתֹּ֕אמֶר קָנִ֥יתִי אִ֖ישׁ אֶת־יְהוָֽה
   insert transliteration
