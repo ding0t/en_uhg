@@ -92,7 +92,7 @@ indicates that the subject of the verb is someone/something other than the write
 :ref:`Personal pronoun<pronoun_personal>` marked for third person
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A third person indpendent personal pronoun refers either to a person/thing (for singular) or group of persons/things (for plural)
+A third person independent personal pronoun refers either to a person/thing (for singular) or group of persons/things (for plural)
 other than the writer/speaker and the person being addressed by the writer/speaker.
 
 .. csv-table:: Example: GEN 36:1
