@@ -44,7 +44,7 @@ Types
 .. _preposition-spatial:
 .. include:: includes/preposition-spatial.rst
 
-.. csv-table:: GEN 2:7 –– with the prefixed preposition בְּ
+.. csv-table:: GEN 3:10 –– with the prefixed preposition בְּ
 
   אֶת־קֹלְךָ֥ שָׁמַ֖עְתִּי בַּגָּ֑ן
   insert transliteration
