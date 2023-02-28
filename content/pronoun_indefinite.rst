@@ -66,7 +66,7 @@ Impersonal indefinite pronoun (מָה)
 
   מַה־תֹּאמַ֥ר נַפְשְׁךָ֖ וְאֶֽעֱשֶׂה־לָּֽךְ
   **mah**-ttomar nafshekha we'e'eseh-llakh
-  **What**\ \_you-say my-soul and-I-will-do\_for-you.
+  **What**\ \_she-says your-soul and-I-will-do\_for-you.
   "**Whatever** you say, I will do for you."
 
 .. csv-table:: Example: NUM 23:3
