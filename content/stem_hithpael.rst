@@ -206,7 +206,7 @@ oneself"), as shown in the example below.
   **And-he-mourned** over\_his-son days many
   **He mourned** for his son many days.
 
-.. csv-table:: Example: ISA 45:1 –– expressing simple action "to constrain oneself"
+.. csv-table:: Example: GEN 45:1 –– expressing simple action "to constrain oneself"
 
   וְלֹֽא־יָכֹ֨ל יוֹסֵ֜ף לְהִתְאַפֵּ֗ק
   welo-yakhol yosef **lehith'appeq**
