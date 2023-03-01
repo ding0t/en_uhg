@@ -7,9 +7,9 @@ Summary
 .. include:: includes/pronoun_personal-summary.rst  
 Article
 -------
-In Biblical Hebrew, personal pronouns change form according to gender (:ref:`masculine<gender_masculine>`, number
-(:ref:`feminine<gender_feminine>`, and person (:ref:`first<person_first>`, :ref:`second<person_second>`, or
-:ref:`third<person_third>`.  Grammatically they are very similar to :ref:`pronominal suffixes<suffix_pronominal>`, but they
+In Biblical Hebrew, personal pronouns change form according to gender (:ref:`masculine<gender_masculine>`, :ref:`feminine<gender_feminine>`, or :ref:`common<gender_common>`), number (:ref:`singular<number_singular>`, or :ref:`plural<number_plural>`),
+ and person (:ref:`first<person_first>`, :ref:`second<person_second>`, or
+:ref:`third<person_third>`).  Grammatically they are very similar to :ref:`pronominal suffixes<suffix_pronominal>`, but they
 stand alone rather than attaching to other kinds of words; also, they are more limited in their function.  
 
 Form
