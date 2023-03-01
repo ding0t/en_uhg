@@ -8,7 +8,7 @@ State Construct
 Summary
 -------
 
-The contruct state is a modified form of a word (noun, adjective, participle, or infinitive) in contrast to the standard form
+The construct state is a modified form of a word (noun, adjective, participle, or infinitive) in contrast to the standard form
 called the absolute state.  The construct state is used when a word takes a suffix or is connected to another term in a
 construct chain.
 
