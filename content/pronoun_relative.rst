@@ -6,11 +6,11 @@ Summary
 -------
 Article
 -------
-Either term is correct.  In English, the relative pronouns include: “who", "what", “that", “which", "when", or "where".
+In English, the relative pronouns include: “who", "what", “that", “which", "when", or "where".
 In most cases, Biblical Hebrew simply uses either the :ref:`relative particle<particle_relative>` אֲשֶׁר or the prefix -שֶׁ to
 introduce a relative clause.  However, in rare instances Biblical Hebrew uses certain other pronouns to serve this same function.
 
-.. note:: In Biblical Hebrew, the terms "relative pronoun" and "relative particle" are two different names for the same thing.  
+.. note:: In Biblical Hebrew, the terms "relative pronoun" and "relative particle" are two different names for the same thing. Either term is correct. 
 
 זוּ
 ----
