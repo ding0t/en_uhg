@@ -151,7 +151,7 @@ Resultative action
 Resultative action means that the primary focus of the verb is on the
 result of the verbal action.
 
-.. csv-table:: Example: GEN 21:6 –– Piel stem expressing resultative action
+.. csv-table:: Example: GEN 21:10 –– Piel stem expressing resultative action
 
   וַיִּתֵּ֣ן ... וְאֶת־הַיֶּ֖לֶד וַֽיְשַׁלְּחֶ֑הָ
   wayyitten ... we'eth-hayyeled **wayeshalleheha**
@@ -166,7 +166,7 @@ Intensive action
 Intensive action means that the verbal action is strengthened in some
 way.
 
-.. csv-table:: Example: EXO 9:25 –– Piel stem expressing intensive action
+.. csv-table:: Example: EXO 34:13 –– Piel stem expressing intensive action
 
   אֶת־מִזְבְּחֹתָם֙ תִּתֹּצ֔וּן וְאֶת־מַצֵּבֹתָ֖ם תְּשַׁבֵּר֑וּן
   'eth-mizbehotham tittotsun we'eth-matsevotham **teshabberun**
@@ -222,7 +222,7 @@ In Biblical Hebrew, the reflexive nature of the verbal action is
 expressed by the stem formation of the verb itself without any additional
 words.
 
-.. csv-table:: Example: NUM 1:21
+.. csv-table:: Example: NUM 16:21
 
   הִבָּ֣דְל֔וּ מִתּ֖וֹךְ הָעֵדָ֣ה הַזֹּ֑את
   **hibbodlu** mittokh ha'edah hazzoth
