@@ -229,7 +229,7 @@ hireq-yod vowel) shortens to a tsere vowel.
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
-  masculine singular absolute,קֹטֵל,qoten,killing / killer
+  masculine singular absolute,קֹטֵל,qotel,killing / killer
   feminine singular absolute,קֹטֶלֶת / קֹטְלָה,qotelet / qotelah,killing / killer
   masculine plural absolute,קֹטְלִים,qotelim,killing / killers
   feminine plural absolute,קֹטְלוֹת,qoteloth,killing / killers
