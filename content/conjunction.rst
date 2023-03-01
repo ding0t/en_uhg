@@ -52,7 +52,7 @@ or as part of a sequential verbal form.
 .. csv-table:: Example: GEN 1:13 –– as part of a sequential verbal form
 
   וַֽיְהִי־עֶ֥רֶב **וַֽיְהִי**\ ־בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי׃
-  **wayehi**-'erev **wayehi**\ voqer yom shelishi
+  **wayehi**-'erev **wayehi**\  \_voqer yom shelishi
   "**And-there-was**\ \_evening, **and-there-was**\ \_morning, day
      third."
   "**This was** evening and morning, the third day."
