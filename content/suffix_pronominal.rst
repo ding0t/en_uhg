@@ -292,8 +292,8 @@ Similar to verbs, a pronominal suffix attached to a preposition is always the ob
 
   כָּל־קְדֹשִׁ֖ים **עִמָּֽךְ**\ ׃
   kol-qedoshim **'immakh**
-  all\_holy-ones **with-him**
-  all the holy ones will be **with him**
+  all\_holy-ones **with-you**
+  all the holy ones will be **with you**
 
 אֵת
 ^^^^
