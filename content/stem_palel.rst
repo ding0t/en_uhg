@@ -22,7 +22,7 @@ only with a variant vowel pattern. The Palel stem is formed from the Piel
 stem by repeating the 3rd radical (with different vowels), thus making a
 verb that appears to have 4 consonants. It is an extremely :ref:`rare stem formation<stem-uncommon>`
 in Biblical Hebrew. Many of the occurrences of the Palel stem in
-the Hebrew Bible are from the root verb שָׁאַן ("to ").
+the Hebrew Bible are from the root verb שָׁאַן ("to be at ease").
 
 .. include:: includes/consult_dictionary.txt
 
