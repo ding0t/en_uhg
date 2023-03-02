@@ -65,7 +65,7 @@ Describes a noun
 .. csv-table:: Example: JOS 10:2
 
   כִּ֣י עִ֤יר **גְּדוֹלָה֙** גִּבְע֔וֹן
-  
+  ki ‘ir gedolah giv’on
   for city **great** Gibeon
   because Gibeon was a **large** city
 
