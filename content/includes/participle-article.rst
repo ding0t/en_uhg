@@ -1,6 +1,6 @@
-In 
+
 .. include:: /language.txt
-participles are :ref:`non-finite<verb-non-finite>` verbal forms that can change their form based on 
+Participles are :ref:`non-finite<verb-non-finite>` verbal forms that can change their form based on 
 :ref:`stem formation<stem>` (like :ref:`verbs<verb>`) as well as person, gender, state, and :ref:`definiteness<definiteness>`
 (like both :ref:`adjectives<adjective>` and :ref:`nouns<noun>`).
 Participles are very flexible in their grammatical use and can function as a verbal complement, a 
