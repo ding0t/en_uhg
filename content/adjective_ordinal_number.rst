@@ -54,7 +54,7 @@ The following examples show cardinal numbers functioning as ordinal numbers.
 .. csv-table:: Example: 2SA 4:2
 
   שֵׁם֩ **הָאֶחָ֨ד** ... וְשֵׁ֧ם הַשֵּׁנִ֣י
-  ushene **'anashim** ... weshem **hasheni**
+  shem **ha’ehad** ... weshem **hasheni**
   name-of **the-one** ... and-name-of **the-two**
   the name of **the first** ... and the name of **the second**
 
