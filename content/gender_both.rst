@@ -60,6 +60,6 @@ feminine.
 .. csv-table:: Example: JOL 4:15
 
   וְכוֹכָבִ֖ים אָסְפ֥וּ נָגְהָֽם
-  
+  wekhokhavim ‘asefu nageham
   And-stars they-withdraw their-\ **brightness**
   the stars keep back their **brightness**
