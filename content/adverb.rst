@@ -67,6 +67,7 @@ of time or an adverb of place, etc.
 .. csv-table:: Example: GEN 32:11
 
   וְעַתָּ֥ה הָיִ֖יתִי לִשְׁנֵ֥י מַחֲנֽוֹת
+  we-‘attah hayithi lishene mahanoth
   **and-now** I-have-become to-two companies
   **and now** I have become two camps
 
