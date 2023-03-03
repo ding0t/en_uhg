@@ -65,7 +65,7 @@ Describes a noun
 .. csv-table:: Example: JOS 10:2
 
   כִּ֣י עִ֤יר **גְּדוֹלָה֙** גִּבְע֔וֹן
-  ki ‘ir gedolah giv’on
+  ki ‘ir **gedolah** giv’on
   for city **great** Gibeon
   because Gibeon was a **large** city
 
@@ -98,7 +98,7 @@ Describes a noun
 .. csv-table:: Example: ISA 30:12
 
   לָכֵ֗ן כֹּ֤ה אָמַר֙ **קְד֣וֹשׁ** יִשְׂרָאֵ֔ל
-  lakhen koh ‘amar qedosh yisra’el
+  lakhen koh ‘amar **qedosh** yisra’el
   Therefore thus he-says **holy-of** Israel
   "Therefore the **Holy One** of Israel says,"
 
@@ -107,7 +107,7 @@ Describes a noun
 .. csv-table:: Example: JOS 21:10
 
   כִּ֥י לָהֶ֛ם הָיָ֥ה הַגּוֹרָ֖ל רִיאשֹׁנָֽה
-  ki lahem hayah haggoral rishonah
+  ki lahem hayah haggoral **rishonah**
   for to-them it-was the-lot **first**
   For the **first** casting of lots had fallen to them.
 
