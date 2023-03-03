@@ -40,14 +40,14 @@ introduce a relative clause.  However, in rare instances Biblical Hebrew uses ce
 
 The two feminine :ref:`demonstratives<pronoun_demonstrative>` זֹה and זוֹ can also function as a :ref:`relative particle<particle_relative>`.
 
-.. csv-table:: Example: ??? ??:??
+.. csv-table:: Example: ??? ??:?? (This table is a place holder until an example is added)
 
   הַר־\ **זֶ֝֗ה** קָנְתָ֥ה יְמִינֹֽו׃
   har-\ **zeh** qonthah yeminow
   mountain\_\ **which** has-acquired his-right-hand
   to this mountain **that** his right hand acquired.
   
-.. csv-table:: Example: ??? ??:??
+.. csv-table:: Example: ??? ??:??  (This table is a place holder until an example is added)
 
   הַר־\ **זֶ֝֗ה** קָנְתָ֥ה יְמִינֹֽו׃
   har-\ **zeh** qonthah yeminow
