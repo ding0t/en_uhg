@@ -169,14 +169,14 @@ For example, the noun אֲלֹהִים (God) appears in the plural form but usua
 .. csv-table:: Example: GEN 1:1
 
   בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
-  bereshith bara ’elohim
+  bereshith bara **’elohim**
   In-beginning he-created **God**
   In the beginning **God** created
   
 .. csv-table:: Example: Job 40:15
 
   הִנֵּה־נָ֣א בְ֭הֵמוֹת אֲשֶׁר־עָשִׂ֣יתִי
-  insert transliteration
+  hinne_na’ **vehemoth** ’asher_‘asiti
   [dem.part]\_[exh.part] **behemoth** [rel.part]\_I-made
   Look now at **the behemoth**, which I made
 
@@ -219,7 +219,7 @@ adjectival participles) use the :ref:`common plural<number_plural-common>`.
 .. csv-table:: Example: JER 33:22 –– adjectival participle with common plural
 
   וְאֶת־הַלְוִיִּ֖ם מְשָׁרְתֵ֥י אֹתִֽי
-  insert transliteration
+  we-‘et_halewiyyim **mesharete** ‘othi
   and-[dir.obj]\_[def.art]-Levites **who-serve** [dir.obj]-me
   and the Levites **who serve** before me
 
@@ -240,7 +240,7 @@ indicates that the subject of the verb is plural.
 
   כִּ֛י לֹ֥א **שָׁמְע֖וּ** בְּק֣וֹל יְהוָ֑ה
   insert transliteration [VERBAL PARTICIPLE]
-  for not **they-listened** to-voice-of Yahweh.
+  for not **they-listened** to-voice-of Yahweh. (this table is just a place holder until an example is added)
   because **they** did not **listen** to Yahweh's voice.
 
 Participles marked as plural
@@ -252,21 +252,21 @@ that the subject of the participle is plural.
 .. csv-table:: Example: SNG 3:8 –– :ref:`nominal<participle_active-nominal>` participle with common plural
 
   כֻּלָּם֙ אֲחֻ֣זֵי חֶ֔רֶב
-  insert transliteration
+  kullam **‘ahuze** herev
   all-them **holders-of** sword
   All of them **are skilled with** a sword 
   
 .. csv-table:: Example: Job 35:10 –– :ref:`adjectival<participle_active-adjectival>` participle with majestic plural
 
   אַ֭יֵּה אֱל֣וֹהַּ עֹשָׂ֑י
-  insert transliteration
+  ‘ayye ‘eloah **‘osay**
   where God **makers-of**-me
   Where is God my **Maker** 
 
 .. csv-table:: Example: GEN 4:10 –– :ref:`verbal participle<participle_active-verbal>` participle with complex plural ["bloods" = "bloodshed"]
 
   דְּמֵ֣י אָחִ֔יךָ צֹעֲקִ֥ים אֵלַ֖י 
-  insert transliteration
+  qol deme ‘ahikha **tso‘aqim** ‘elay
   bloods-of your-brother **crying-out** to-me
   Your brother's blood **is calling out** to me
 
