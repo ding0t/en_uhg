@@ -98,14 +98,14 @@ Types
 .. csv-table:: GEN 3:19 –– with the prefixed preposition בְּ
 
   בְּזֵעַ֤ת אַפֶּ֙יךָ֙ תֹּ֣אכַל לֶ֔חֶם
-  insert transliteration
+  **beze‘ath** ‘appekha thokhal lehem
   **By**-sweat-of your-face you-will-eat bread
   **By** the sweat of your face you will eat bread
 
 .. csv-table:: GEN 4:1 –– with the independent preposition אֵת
 
   וַתֹּ֕אמֶר קָנִ֥יתִי אִ֖ישׁ אֶת־יְהוָֽה
-  insert transliteration
+  watthomer qanithi ‘ish **‘et**_yehwah
   And-she-said I-acquired man **with**\_Yahweh
   She said "I have produced a man **with** Yahweh's help.
 
@@ -115,14 +115,14 @@ Types
 .. csv-table:: GEN 4:17 –– with the prefixed preposition כְּ
 
   וַיִּקְרָא֙ שֵׁ֣ם הָעִ֔יר כְּשֵׁ֖ם בְּנ֥וֹ חֲנֽוֹךְ
-  insert transliteration
+  wayyiqra‘ shem ha‘ir **keshem** benow hanokh
   And-he-called name-of the-city **as**-name-of his-son Enoch
   and named it after his son Enoch.
 
 .. csv-table:: GEN 12:4 –– preposition כְּ with relative particle אֲשֶׁר
 
   וַיֵּ֣לֶךְ אַבְרָ֗ם כַּאֲשֶׁ֨ר דִּבֶּ֤ר אֵלָיו֙ יְהוָ֔ה
-  insert transliteration
+  wayyelekh ‘avram **ka‘asher** dibber ‘elaw yehwah
   And-he-went Abram **as**-what he-had-spoken to-him Yahweh
   So Abram went **as** Yahweh had told him to do
 
@@ -132,14 +132,14 @@ Types
 .. csv-table:: Gen 29:30 –– with the prefixed preposition מִן
 
   וַיֶּאֱהַ֥ב גַּֽם־אֶת־רָחֵ֖ל מִלֵּאָ֑ה 
-  insert transliteration
+  wayye‘ehav gam_‘eth_rahel **mille‘a**
   And-he-loved also\_[dir-obj]\_Rachel **more-than**-Leah
   but he loved Rachel **more than** Leah
 
 .. csv-table:: GEN 3:1 –– with the prefixed preposition מִן
 
   וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם מִכֹּל֙ חַיַּ֣ת הַשָּׂדֶ֔ה
-  insert transliteration
+  wehannahash hayah ‘arum **mikkol** hayyath hassadeh
   And-serpent he-was shrewd **from**-all-of animals-of the-field
   Now the serpent was **more** shrewd **than** any other beast of the field
 
@@ -149,14 +149,14 @@ Types
 .. csv-table:: ISA 51:6 –– with the prefixed preposition לְ
 
   שְׂאוּ֩ לַשָּׁמַ֨יִם עֵֽינֵיכֶ֜ם
-  insert transliteration
+  se‘u **lashamayim** ‘eynekhem
   you-lift **to**-the-heavens your-eyes
   Lift up your eyes **to** the sky
 
 .. csv-table:: GEN 18:16 –– with the independent preposition עַל
 
   וַיַּשְׁקִ֖פוּ עַל־פְּנֵ֣י סְדֹ֑ם 
-  insert transliteration
+  wayyashqifu **‘al**_pene sedom
   And-they-looked **on**\_face-of Sodom
   and looked down **toward** Sodom
 
@@ -166,14 +166,14 @@ Types
 .. csv-table:: GEN 4:6 ––  with the prefixed preposition לְ
 
   וְלָ֖מָּה נָפְל֥וּ פָנֶֽיךָ׃
-  insert transliteration
+  **welammah** nafelu fanekha
   and-**for**-what he-is-fallen your-face
   and **why** are you scowling?
 
 .. csv-table:: GEN 26:7 –– with the independent preposition עַל
 
   פֶּן־יַֽהַרְגֻ֜נִי אַנְשֵׁ֤י הַמָּקוֹם֙ עַל־רִבְקָ֔ה 
-  insert transliteration
+  pen_yahareguni ‘anshe hammaqom **‘al**_rivqah
   Lest_they-kill-me men-of the-place **because-of**\_Rebekah
   The men of this place will kill me **to get** Rebekah
 
@@ -183,14 +183,14 @@ Types
 .. csv-table:: GEN 1:14 –– with the prefixed preposition לְ
 
   וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
-  insert transliteration
+  wehayu le‘othoth ulemo‘adim uleyamim weshanim
   And-they-are **for**-signs and-**for**-seasons and-**for**-days and-years
   and let them be **as** signs, **for** seasons, **for** days and years
 
 .. csv-table:: GEN 12:19 –– with the prefixed preposition לְ
 
   וָאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה 
-  insert transliteration
+  wa‘eqqah ‘othah li le‘isha
   And-I-took [dir.obj]-her to-me **as**-wife
   I took her to be my wife
 
@@ -199,7 +199,7 @@ Types
 .. csv-table:: 1 CHR 29:22
 
   וַיַּמְלִ֤יכוּ שֵׁנִית֙ לִשְׁלֹמֹ֣ה בֶן־דָּוִ֔יד
-  insert transliteration
+  wayyamlikhu shenith lishelomoh ven_dawid
   And-they-crowned second **[dir.obj]**-Solomon son-of_David
   They made Solomon, David's son, king a second time
 
