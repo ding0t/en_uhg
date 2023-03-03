@@ -88,7 +88,7 @@ indicates that the subject of the verb is the person(s) being addressed by the w
 .. csv-table:: Example: GEN 22:18
 
   עֵ֕קֶב אֲשֶׁ֥ר שָׁמַ֖עְתָּ בְּ⁠קֹלִֽ⁠י
-  because that **you-have-obeyed** -on-voice-of-me.
+  because that **you-have-obeyed** on-voice-of-me.
   because **you listened** to my voice.
 
 :ref:`Personal pronoun<pronoun_personal>` marked for second person
