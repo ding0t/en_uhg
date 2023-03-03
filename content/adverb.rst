@@ -67,13 +67,14 @@ of time or an adverb of place, etc.
 .. csv-table:: Example: GEN 32:11
 
   וְעַתָּ֥ה הָיִ֖יתִי לִשְׁנֵ֥י מַחֲנֽוֹת
-  we-‘attah hayithi lishene mahanoth
+  **we-‘attah** hayithi lishene mahanoth
   **and-now** I-have-become to-two companies
   **and now** I have become two camps
 
 .. csv-table:: Example: GEN 4:26
 
   אָ֣ז הוּחַ֔ל לִקְרֹ֖א בְּשֵׁ֥ם יְהוָֽה
+  **‘az** huhal liqro’ beshem yehwah
   **Then** he-began to-call-out in-name-of Yahweh
   **At that time** people began to call on the name of Yahweh.
 
