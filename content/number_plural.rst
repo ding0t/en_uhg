@@ -169,7 +169,7 @@ For example, the noun אֲלֹהִים (God) appears in the plural form but usua
 .. csv-table:: Example: GEN 1:1
 
   בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים
-  insert transliteration
+  bereshith bara ’elohim
   In-beginning he-created **God**
   In the beginning **God** created
   
