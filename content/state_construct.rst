@@ -92,7 +92,7 @@ Relational
 ^^^^^^^^^^
 A construct noun can indicate a kind of personal relationship with reference to the absolute noun.
 
-EXAMPLE
+EXAMPLE (needs to be added)
 
 
 Material
