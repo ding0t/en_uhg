@@ -57,9 +57,9 @@ masculine.
 In the following example, the noun נֹגַהּ (brightness) could be either masculine or
 feminine.
 
-.. csv-table:: Example: JOL 4:15
+.. csv-table:: Example: JOL 2:10
 
   וְכוֹכָבִ֖ים אָסְפ֥וּ נָגְהָֽם
-  wekhokhavim ‘asefu nageham
+  wekhokhavim ‘asefu **nageham**
   And-stars they-withdraw their-\ **brightness**
   the stars keep back their **brightness**
