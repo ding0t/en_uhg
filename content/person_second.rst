@@ -51,7 +51,7 @@ Paradigm
   second person masculine plural,תִּקְטְלוּ,tiqtelu,you will kill
   second person feminine plural,תִּקְטֹלְנָה,tiqtolenah,you will kill
 
-.. csv-table:: Second Person Indepdent Personal Pronoun Forms
+.. csv-table:: Second Person Independent Personal Pronoun Forms
 
   Parsing,Hebrew,Transliteration,Gloss
   second person masculine singular,אַתָּה,'attah,you
