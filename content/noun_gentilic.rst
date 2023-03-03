@@ -24,7 +24,7 @@ Examples
 .. csv-table:: Example: GEN 16:1
 
   וְלָ֛הּ שִׁפְחָ֥ה מִצְרִ֖ית
-  
+  welah shifha mitsrith
   And-to-her slave-girl **Egyptian**
   "but she had a female servant, **an Egyptian,**"
 
@@ -32,7 +32,7 @@ Examples
 
   "וַיֵּצֵא֙ בֶּן־אִשָּׁ֣ה **יִשְׂרְאֵלִ֔ית** וְהוּא֙ בֶּן־אִ֣ישׁ
      מִצְרִ֔י"
-  
+  wayyetse ben_’ishah yisre’elith wehu ben_ish mitsri
   "And-he-went-out son-of\_woman **Israelite** and-he son-of\_man
      **Egyptian**"
   "Now it happened that the son of an **Israelite** woman, whose father was
