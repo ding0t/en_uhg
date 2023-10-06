@@ -13,7 +13,7 @@ td,tr {
 
 @font-face {
   font-family: "SBL Hebrew";
-  src: url(../fonts/SBL_Hbrw.ttf) format("truetype"),
-       url(../fonts/SBL_Hbrw.woff) format("woff");
+  src: url(../../fonts/SBL_Hbrw.ttf) format("truetype"),
+       url(../../fonts/SBL_Hbrw.woff) format("woff");
   unicode-range: U+0590-05FF; /* only applies to Hebrew characters */
 }
