@@ -158,6 +158,10 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_css_files = [
+    'css/custom.css',
+]
+
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
 # directly to the root of the documentation.
@@ -239,6 +243,8 @@ html_static_path = ['_static']
 htmlhelp_basename = 'UHG'
 
 # -- Options for LaTeX output ---------------------------------------------
+# 2023-10-06: Latex not in use. PDF output has been disabled 
+# because of flipped word order issue in Hebrew.
 
 # Use XeLaTex (to properly handle Unicode)
 latex_engine = 'xelatex'
@@ -252,12 +258,11 @@ latex_elements = {
      #
      # 'pointsize': '10pt',
 
-     'label': '\\usepackage[english]{babel}',
+     #'label': '\\usepackage[english]{babel}',
 
      # Additional stuff for the LaTeX preamble.
      #
      'preamble': r'''
-\usepackage{xeCJK}
 \setmainfont{SBL Hebrew}
 \XeTeXlinebreaklocale "he"
 \XeTeXlinebreakskip = 0pt plus 1pt

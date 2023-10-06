@@ -1,10 +1,14 @@
 version: 2
 
-# Build settings
 build:
   os: "ubuntu-22.04"
   tools:
     python: "3.7"
+  jobs:
+    post_build:
+      - mkdir -p $READTHEDOCS_OUTPUT/html/fonts
+      - cp fonts/SBL_Hbrw.ttf $READTHEDOCS_OUTPUT/html/fonts
+      - cp fonts/SBL_Hbrw.woff $READTHEDOCS_OUTPUT/html/fonts
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
@@ -13,7 +17,6 @@ sphinx:
 # Optionally build your docs in additional formats such as PDF
 formats:
   - epub
-  - pdf
   - htmlzip
 
 # Optionally set the version of Python and requirements required to build your docs
