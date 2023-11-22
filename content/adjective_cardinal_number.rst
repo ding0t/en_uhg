@@ -89,6 +89,12 @@ The following example is a cardinal number with a :ref:`pronominal suffix<suffix
           take a plural ending, they become multiples of ten ("thirty", "forty",
           "fifty", etc.).
 
+The following table presents the possible forms of the cardinal numbers three through ten. 
+Note that this table presents the numbers as masculine or feminine according to their morphology. 
+When a cardinal number modifies a noun, it appears with the opposite morphological gender of the noun that it modifies. 
+This can be seen in the examples below the table as well as in the table for numbers 11-19, where the numbers 3-9 take the opposite gender morphology from the number 10 that follows.
+The number ten in this combination will take the morphological gender of the noun that the combined number modifies.
+
 .. csv-table:: 3-10 Paradigm
 
   Form,Hebrew,Transliteration,Gloss
