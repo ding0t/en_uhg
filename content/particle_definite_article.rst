@@ -44,8 +44,8 @@ Form
   :header-rows: 1
 
   Parsing,Hebrew,Transliteration,Gloss
-  noun,חֹשֶׁק,hosheq,darkness
-  noun + definite article,הַחֹשֶׁק,hahosheq,the darkness
+  noun,חֹשֶׁךְ,hoshek,darkness
+  noun + definite article,הַחֹשֶׁךְ,hahoshek,the darkness
 
 .. csv-table:: Alternate form with qamets vowel, no daghesh in gutteral consonant
   :header-rows: 1
