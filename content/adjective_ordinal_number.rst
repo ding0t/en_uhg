@@ -14,7 +14,7 @@ Article
 .. csv-table:: "First" through "Tenth" Paradigm
 
   word,Hebrew,Transliteration,Gloss
-  masculine,רִאֹשׁוֹן,ri'oshon,first
+  masculine,רִאשׁוֹן,ri'shon,first
   masculine,שֵׁנִי,sheni,second
   masculine,שְׁלִישִׁי,shelishi,third
   masculine,רְבִיעִי,rebi'i,fourth
