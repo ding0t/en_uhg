@@ -111,8 +111,7 @@ Paradigm
   Parsing,Hebrew,Transliteration,Gloss
   Infinitive Absolute,הָקְטֵל,hoqtel,causing to be killed
 
-The infinitive construct, imperative, jussive, and cohortative
-are not found in the Hophal stem in Biblical Hebrew.
+The imperative, jussive, and cohortative are not found in the Hophal stem in Biblical Hebrew. The infinitive construct occurs only eight times in the Hophal stem in Biblical Hebrew.
 
 .. csv-table:: Hophal Participle (passive voice) Paradigm
   :header-rows: 1
