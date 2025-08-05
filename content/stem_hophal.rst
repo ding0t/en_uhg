@@ -43,7 +43,7 @@ Form
 Paradigm
 ~~~~~~~~
 
-.. note:: every form in the Hophal can have either a qamets hatuf or a
+.. note:: Every form in the Hophal can have either a qamets hatuf or a
           qibbuts under the first letter (so הָ or הֻ). Here the qamets hatuf is
           used throughout.
 
